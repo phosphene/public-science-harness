@@ -1,0 +1,7 @@
+horizon_id,section_name,country,stage_name,age_top_ma,age_bottom_ma,ichnotaxon,substrate_penetration_dimension,max_burrow_depth_mm,biomineralized_tissue_present,mineralogy_type,primary_reference_doi
+HZ_FORTUNE_HEAD_ED_01,Fortune Head GSSP,Canada (Newfoundland),Terminal Ediacaran,541.0,555.0,Radulichnus cf. kimberelloides,2D_SURFACE_MAT,1.5,0,NONE,10.1017/S001675680001099X
+HZ_WHITE_SEA_ED_02,White Sea / Zimnii Bereg,Russia,Terminal Ediacaran,550.0,558.0,Kimberichnus teruzzii,2D_SURFACE_MAT,2.0,0,NONE,10.1130/G34221.1
+HZ_FORTUNE_HEAD_CB_01,Fortune Head GSSP,Canada (Newfoundland),Fortunian,529.0,541.0,Treptichnus pedum,3D_VERTICAL_INFAUNAL,35.0,0,NONE,10.1017/S001675689400001X
+HZ_MEISHUCUN_CB_02,Meishucun Section (Xiaowaitoushan Mbr),China (Yunnan),Fortunian,535.0,539.0,Saronichnus / Arenicolites,3D_VERTICAL_INFAUNAL,45.0,1,PHOSPHATIC,10.1016/j.precamres.2012.01.004
+HZ_MAOTIANSHAN_CB_03,Chengjiang (Yu'anshan Mbr),China (Yunnan),Stage 3,518.0,521.0,Rusophycus / Cruziana / predatory trackways,3D_NEKTONIC,80.0,1,CARBONATE,10.1126/science.1070052
+HZ_BURGESS_SHALE_CB_04,Burgess Shale (Stephen Fm),Canada (British Columbia),Wuliuan (Stage 5),505.0,508.0,Nektonic predatory traces / Anomalocaris predation bites,3D_NEKTONIC,120.0,1,CARBONATE,10.1126/science.1169514

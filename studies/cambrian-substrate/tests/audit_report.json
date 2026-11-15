@@ -1,0 +1,103 @@
+{
+  "audit_timestamp_utc": "2026-11-15T21:57:36.231098+00:00",
+  "database": "cambrian_substrate.db",
+  "checks": [
+    {
+      "check_name": "stratigraphic_depth_penetration_progression",
+      "description": "Verifies substrate penetration depth increases over geological time while biomineralization follows behavior",
+      "total_horizons": 6,
+      "status": "PASS",
+      "details": [
+        {
+          "horizon": "HZ_WHITE_SEA_ED_02",
+          "stage": "Terminal Ediacaran",
+          "age_span_ma": [
+            558.0,
+            550.0
+          ],
+          "dimension": "2D_SURFACE_MAT",
+          "burrow_depth_mm": 2.0,
+          "biomineralized": false
+        },
+        {
+          "horizon": "HZ_FORTUNE_HEAD_ED_01",
+          "stage": "Terminal Ediacaran",
+          "age_span_ma": [
+            555.0,
+            541.0
+          ],
+          "dimension": "2D_SURFACE_MAT",
+          "burrow_depth_mm": 1.5,
+          "biomineralized": false
+        },
+        {
+          "horizon": "HZ_FORTUNE_HEAD_CB_01",
+          "stage": "Fortunian",
+          "age_span_ma": [
+            541.0,
+            529.0
+          ],
+          "dimension": "3D_VERTICAL_INFAUNAL",
+          "burrow_depth_mm": 35.0,
+          "biomineralized": false
+        },
+        {
+          "horizon": "HZ_MEISHUCUN_CB_02",
+          "stage": "Fortunian",
+          "age_span_ma": [
+            539.0,
+            535.0
+          ],
+          "dimension": "3D_VERTICAL_INFAUNAL",
+          "burrow_depth_mm": 45.0,
+          "biomineralized": true
+        },
+        {
+          "horizon": "HZ_MAOTIANSHAN_CB_03",
+          "stage": "Stage 3",
+          "age_span_ma": [
+            521.0,
+            518.0
+          ],
+          "dimension": "3D_NEKTONIC",
+          "burrow_depth_mm": 80.0,
+          "biomineralized": true
+        },
+        {
+          "horizon": "HZ_BURGESS_SHALE_CB_04",
+          "stage": "Wuliuan (Stage 5)",
+          "age_span_ma": [
+            508.0,
+            505.0
+          ],
+          "dimension": "3D_NEKTONIC",
+          "burrow_depth_mm": 120.0,
+          "biomineralized": true
+        }
+      ]
+    },
+    {
+      "check_name": "functional_guild_richness_and_occurrences",
+      "description": "Verifies taxonomic richness across the three target functional marine guilds",
+      "status": "PASS",
+      "guild_metrics": {
+        "INFAUNAL_BURROWER": {
+          "richness": 4,
+          "occurrences": 5
+        },
+        "MOBILE_APEX_PREDATOR": {
+          "richness": 295,
+          "occurrences": 634
+        },
+        "OTHER_UNCLASSIFIED": {
+          "richness": 51,
+          "occurrences": 115
+        },
+        "SEDENTARY_FILTER_FEEDER": {
+          "richness": 81,
+          "occurrences": 246
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+# Schema Definition: Stratigraphic Horizons & Ichnofacies Matrix
+# Conforms to docs/DATA_STANDARDS.md and Section 2 of Paper 01
+
+table_name: stratigraphic_horizons
+description: "Chronological occurrence matrix of trace fossils vs biomineralized skeletal hardware across Ediacaran-Cambrian boundary"
+primary_key: [horizon_id]
+
+columns:
+  horizon_id:
+    type: string
+    description: "Unique surrogate key, format: HZ_<GSSP_CODE>_<STAGE>_<SEQ>"
+  section_name:
+    type: string
+    description: "Canonical GSSP or reference geological section (e.g., Fortune Head, White Sea, Meishucun)"
+  country:
+    type: string
+    description: "Geographic host country"
+  stage_name:
+    type: string
+    description: "IUGS Chronostratigraphic stage (Terminal Ediacaran, Fortunian, Stage 2, Stage 3, Stage 4)"
+  age_top_ma:
+    type: float
+    description: "Geochronological age boundary top in Ma (calibrated radiometric)"
+  age_bottom_ma:
+    type: float
+    description: "Geochronological age boundary bottom in Ma (calibrated radiometric)"
+  ichnotaxon:
+    type: string
+    description: "Diagnostic ichnogenus/ichnospecies (e.g., Radulichnus, Treptichnus pedum, Rusophycus)"
+  substrate_penetration_dimension:
+    type: string
+    description: "Physical penetration mode: 2D_SURFACE_MAT, 2.5D_MICROBIAL_UNDERMAT, 3D_VERTICAL_INFAUNAL, 3D_NEKTONIC"
+  max_burrow_depth_mm:
+    type: float
+    description: "Maximum recorded sediment penetration depth in millimeters"
+  biomineralized_tissue_present:
+    type: boolean
+    description: "True if associated tracemaker lineage possessed mineralized skeletal hard parts at this horizon"
+  mineralogy_type:
+    type: string
+    description: "None, Carbonate, Phosphatic, Agglutinated, Siliceous"
+  primary_reference_doi:
+    type: string
+    description: "Canonical literature source DOI or citation locator"
