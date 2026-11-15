@@ -1,0 +1,62 @@
+{
+  "receipt_id": "rcpt-20261115230344-cambrian-v1",
+  "pipeline_id": "pipelines/03_calibrate_infaunal_diversity.py",
+  "git_commit_sha": "85b41a7a71ef5ba97bdac6f4762666286b15fc44",
+  "executed_at_utc": "2026-11-15T23:03:44.458686+00:00",
+  "actor_id": "flow@feelingflowingbot",
+  "transform_specs_applied": [
+    "TR-CAMBRIAN-001",
+    "TR-CAMBRIAN-002",
+    "TR-CAMBRIAN-003"
+  ],
+  "input_artifacts": [
+    {
+      "path": "data/raw/stratigraphic_horizons_raw.csv",
+      "sha256": "8ea44c0a1242e6c3084a6d96b64e9913f3540a529e3c06fead7c30f9389960d5",
+      "record_count": null,
+      "size_bytes": 1280
+    },
+    {
+      "path": "data/raw/pbdb_cambrian_metazoa_raw.json",
+      "sha256": "f0071ae3d48818fad2ef76773a7e8771f4e07b9000847b146c8ad600bb0a3002",
+      "record_count": null,
+      "size_bytes": 376310
+    }
+  ],
+  "output_artifacts": [
+    {
+      "path": "data/curated/cambrian_substrate.db",
+      "sha256": "f1e6a3d1907441546194c912c95e0a911d680e93fc97dbe7a4598cba862d7283",
+      "record_count": null,
+      "size_bytes": 249856
+    }
+  ],
+  "annotations_emitted": [
+    {
+      "annotation_id": "annot-20261115-infaunal-taphonomic-bias",
+      "timestamp_utc": "2026-11-15T23:03:44.445403+00:00",
+      "actor_id": "flow@feelingflowingbot",
+      "actor_role": "Epistemic Verification Agent",
+      "target_entity_type": "COLUMN",
+      "target_selector": "functional_guild = 'INFAUNAL_BURROWER'",
+      "judgment_type": "calibration_override",
+      "epistemic_warrant_doi": "10.1017/S001675689400001X",
+      "epistemic_warrant_citation": "Brasier, M.D. et al. (1994). Decision on the Precambrian-Cambrian boundary stratotype. Episodes, 17(1-2), 3-8.",
+      "rationale": "Standard PBDB body fossil tables capture only N=5 occurrences (4 taxa) for Cambrian infaunal burrowers due to soft-tissue preservation limits. Yet global trace fossils (Treptichnus pedum, Arenicolites) document rapid vertical substrate ingress expanding from 1.5mm to 45mm in the Fortunian and 120mm by Stage 5. Fitting diversity-dependent speciation (Gl) strictly on body occurrences produces an artificial Gl=-0.031 driven by missing skeletonized parts rather than ecological carrying capacity.",
+      "recommended_action": "In downstream birth-death models, weight infaunal carrying capacity by stratigraphic burrow depth (mm) or use joint trace-body occurrence priors rather than naive body fossil counts."
+    },
+    {
+      "annotation_id": "annot-20261115-sedentary-filter-sampling",
+      "timestamp_utc": "2026-11-15T23:03:44.445426+00:00",
+      "actor_id": "flow@feelingflowingbot",
+      "actor_role": "Epistemic Verification Agent",
+      "target_entity_type": "COLUMN",
+      "target_selector": "functional_guild = 'SEDENTARY_FILTER_FEEDER'",
+      "judgment_type": "disclosure",
+      "epistemic_warrant_doi": "10.1130/G34221.1",
+      "epistemic_warrant_citation": "Ivantsov, A.Y. (2013). Trace fossils of precambrian metazoans. Gondwana Research, 23(3), 850-862.",
+      "rationale": "Sedentary filter feeders (Brachiopoda, Porifera) possess dense biomineralized calcite and siliceous spicules, yielding a high sampling ratio (3.04 occ/taxon). Their negative diversity-dependence (Gl=-0.089) represents a robust physical signature of 2D benthic substrate competition and spatial overgrowth.",
+      "recommended_action": "Uncalibrated PBDB body fossil frequencies are representative for primary inference."
+    }
+  ]
+}
