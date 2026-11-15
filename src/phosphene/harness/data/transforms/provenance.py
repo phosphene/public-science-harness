@@ -10,7 +10,7 @@ from enum import Enum
 from typing import Any, Callable, Dict, List, Optional
 from pydantic import Field
 
-from phosphene.harness.data.core.vitals import InvariantStatic
+from phosphene.core import InvariantStatic
 
 
 class TransformCategory(str, Enum):

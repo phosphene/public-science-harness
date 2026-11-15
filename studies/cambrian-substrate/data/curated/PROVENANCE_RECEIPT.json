@@ -1,8 +1,8 @@
 {
-  "receipt_id": "rcpt-20261115230344-cambrian-v1",
-  "pipeline_id": "pipelines/03_calibrate_infaunal_diversity.py",
+  "receipt_id": "rcpt-20261115231350-stage_calibrate_taphonomic_diversity",
+  "pipeline_id": "pipelines/stage_calibrate_taphonomic_diversity.py",
   "git_commit_sha": "85b41a7a71ef5ba97bdac6f4762666286b15fc44",
-  "executed_at_utc": "2026-11-15T23:03:44.458686+00:00",
+  "executed_at_utc": "2026-11-15T23:13:50.782548+00:00",
   "actor_id": "flow@feelingflowingbot",
   "transform_specs_applied": [
     "TR-CAMBRIAN-001",
@@ -11,13 +11,13 @@
   ],
   "input_artifacts": [
     {
-      "path": "data/raw/stratigraphic_horizons_raw.csv",
+      "path": "stratigraphic_horizons_raw.csv",
       "sha256": "8ea44c0a1242e6c3084a6d96b64e9913f3540a529e3c06fead7c30f9389960d5",
       "record_count": null,
       "size_bytes": 1280
     },
     {
-      "path": "data/raw/pbdb_cambrian_metazoa_raw.json",
+      "path": "pbdb_cambrian_metazoa_raw.json",
       "sha256": "f0071ae3d48818fad2ef76773a7e8771f4e07b9000847b146c8ad600bb0a3002",
       "record_count": null,
       "size_bytes": 376310
@@ -25,8 +25,8 @@
   ],
   "output_artifacts": [
     {
-      "path": "data/curated/cambrian_substrate.db",
-      "sha256": "f1e6a3d1907441546194c912c95e0a911d680e93fc97dbe7a4598cba862d7283",
+      "path": "cambrian_substrate.db",
+      "sha256": "2d07409626faf9b3372bdff72206c9c21d3eb01b264c8d7d5cb60b2fe7fcd60e",
       "record_count": null,
       "size_bytes": 249856
     }
@@ -34,7 +34,7 @@
   "annotations_emitted": [
     {
       "annotation_id": "annot-20261115-infaunal-taphonomic-bias",
-      "timestamp_utc": "2026-11-15T23:03:44.445403+00:00",
+      "timestamp_utc": "2026-11-15T23:13:50.773073+00:00",
       "actor_id": "flow@feelingflowingbot",
       "actor_role": "Epistemic Verification Agent",
       "target_entity_type": "COLUMN",
@@ -47,7 +47,7 @@
     },
     {
       "annotation_id": "annot-20261115-sedentary-filter-sampling",
-      "timestamp_utc": "2026-11-15T23:03:44.445426+00:00",
+      "timestamp_utc": "2026-11-15T23:13:50.773100+00:00",
       "actor_id": "flow@feelingflowingbot",
       "actor_role": "Epistemic Verification Agent",
       "target_entity_type": "COLUMN",

@@ -1,27 +1,24 @@
 """
 Phosphene Public Science Harness — Axiomatic Core Vitals
-Conforms to Phosphene Python Standards and Mertz (2021) Missingness Taxonomy.
+Conforms to Phosphene Python Standards (Part 8) and Mertz (2021) Missingness Taxonomy.
+Directly imports canonical operational modes from phosphene.core.
 """
 
 from __future__ import annotations
 
 from enum import Enum
 from typing import Any, Generic, TypeVar
-from pydantic import BaseModel, ConfigDict, Field
+from pydantic import Field
+
+# Canonical operational modes from phosphene.core (Part 8 Care Package)
+from phosphene.core import (
+    InvariantDynamic,
+    InvariantStatic,
+    MutableDynamic,
+    MutableStatic,
+)
 
 T = TypeVar("T")
-
-
-class InvariantStatic(BaseModel):
-    """
-    Fixed-width, read-only record.
-    Enforces strict immutability and forbids arbitrary or unexpected fields.
-    """
-    model_config = ConfigDict(
-        frozen=True,
-        extra="forbid",
-        arbitrary_types_allowed=True,
-    )
 
 
 class MissingnessCategory(str, Enum):
@@ -30,8 +27,8 @@ class MissingnessCategory(str, Enum):
     Explicit taxonomy separating four missingness states that raw data conflates.
     """
     OBSERVED = "observed"                      # Valid empirical observation
-    UNOBSERVED_NULL = "unobserved_null"        # Data was not recorded or missing
-    NOT_COMPUTABLE_NAN = "not_computable_nan"  # Arithmetic failure / IEEE-754 NaN / div by zero
+    UNOBSERVED_NULL = "unobserved_null"        # Truly unmeasured or missing
+    NOT_COMPUTABLE_NAN = "not_computable_nan"  # Numerical calculation failure, division by zero
     NOT_APPLICABLE = "not_applicable"          # Attribute does not apply to observational unit
     BELOW_LOD = "below_lod"                    # Bounded by instrument limit of detection (< LOD)
     ABOVE_CEILING = "above_ceiling"            # Bounded by instrument saturation ceiling (> saturation)
@@ -48,3 +45,13 @@ class SanitizedValue(InvariantStatic, Generic[T]):
     status: MissingnessCategory
     original_sentinel: str | None = None
     note: str | None = None
+
+
+__all__ = [
+    "InvariantDynamic",
+    "InvariantStatic",
+    "MissingnessCategory",
+    "MutableDynamic",
+    "MutableStatic",
+    "SanitizedValue",
+]
