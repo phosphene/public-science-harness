@@ -1,0 +1,14 @@
+{
+  "stratigraphic_horizons_raw.csv": {
+    "sha256": "8ea44c0a1242e6c3084a6d96b64e9913f3540a529e3c06fead7c30f9389960d5",
+    "retrieved_at_utc": "2026-11-15T21:57:06.240847+00:00",
+    "source": "GSSP Fortune Head, White Sea, Meishucun canonical compilations (Brasier 1994, Kouchinsky 2012)",
+    "row_count": 6
+  },
+  "pbdb_cambrian_metazoa_raw.json": {
+    "sha256": "f0071ae3d48818fad2ef76773a7e8771f4e07b9000847b146c8ad600bb0a3002",
+    "retrieved_at_utc": "2026-11-15T21:57:20.798963+00:00",
+    "source": "https://paleobiodb.org/data1.2/occs/list.json?base_name=Metazoa&interval=Cambrian&show=class%2Cphy%2Ccoords%2Cloc&limit=1000",
+    "record_count": 1000
+  }
+}

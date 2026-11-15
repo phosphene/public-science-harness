@@ -1,0 +1,129 @@
+{
+  "brief": {
+    "title": "Cambrian Substrate Shift & Diversity-Dependence Ingestion Board",
+    "description": "Ingestion, curation, and reconciliation audit for Paper 01 empirical substrates (GSSP stratigraphy + PBDB guild diversity).",
+    "requester": "Ed Phil",
+    "domain": "paleontology/macroecology",
+    "source_refs": []
+  },
+  "steps": [
+    {
+      "index": 0,
+      "kind": "exec",
+      "slug": "00-ingest-stratigraphic-matrix",
+      "title": "Dataset 1: GSSP & Ichnofacies Matrix Ingestion",
+      "instruction": "Execute pipelines/01_ingest_stratigraphic_matrix.py to ingest GSSP boundary sections and ichnofacies progression into immutable raw CSV + curated DuckDB/SQLite table.",
+      "depends_on": [],
+      "inputs": {},
+      "expected_outputs": [],
+      "timeout_hint_seconds": 300,
+      "expected_duration_seconds": null,
+      "retryable": true,
+      "max_attempts": 3,
+      "retry_after_seconds": 0,
+      "checkpoint_schema": null,
+      "notes": null
+    },
+    {
+      "index": 1,
+      "kind": "exec",
+      "slug": "01-fetch-pbdb-guild-diversity",
+      "title": "Dataset 2: PBDB Cambrian Marine Functional Guild Ingestion",
+      "instruction": "Execute pipelines/02_fetch_pbdb_guild_diversity.py to pull raw Cambrian metazoan occurrence records from Paleobiology Database (PBDB) API, categorize into functional guilds, and load into curated relational store.",
+      "depends_on": [],
+      "inputs": {},
+      "expected_outputs": [],
+      "timeout_hint_seconds": 300,
+      "expected_duration_seconds": null,
+      "retryable": true,
+      "max_attempts": 3,
+      "retry_after_seconds": 0,
+      "checkpoint_schema": null,
+      "notes": null
+    },
+    {
+      "index": 2,
+      "kind": "exec",
+      "slug": "02-reconciliation-audit",
+      "title": "Dataset Reconciliation Audit & Verification",
+      "instruction": "Run automated reconciliation audits comparing curated tables against published GSSP horizon chronologies and Paper 01 Table 1 baseline counts.",
+      "depends_on": [
+        0,
+        1
+      ],
+      "inputs": {},
+      "expected_outputs": [],
+      "timeout_hint_seconds": 300,
+      "expected_duration_seconds": null,
+      "retryable": true,
+      "max_attempts": 3,
+      "retry_after_seconds": 0,
+      "checkpoint_schema": null,
+      "notes": null
+    }
+  ],
+  "step_states": [
+    {
+      "status": "complete",
+      "started_at": "2026-11-15T21:57:06.213904Z",
+      "completed_at": "2026-11-15T21:57:06.254400Z",
+      "failed_at": null,
+      "skipped_at": null,
+      "blocked_at": null,
+      "output_paths": [
+        "/home/node/.openclaw/workspace/work/flow/public-science-harness/studies/cambrian-substrate/taskflow/steps/00-stratigraphic-matrix.md"
+      ],
+      "output_metadata": {},
+      "error": null,
+      "attempts": 1,
+      "checkpoint": {},
+      "eta": null,
+      "mutations": [],
+      "child_session_key": null,
+      "agent_trace": []
+    },
+    {
+      "status": "complete",
+      "started_at": "2026-11-15T21:57:10.869842Z",
+      "completed_at": "2026-11-15T21:57:20.836584Z",
+      "failed_at": null,
+      "skipped_at": null,
+      "blocked_at": null,
+      "output_paths": [
+        "/home/node/.openclaw/workspace/work/flow/public-science-harness/studies/cambrian-substrate/taskflow/steps/01-pbdb-occurrences.md"
+      ],
+      "output_metadata": {},
+      "error": null,
+      "attempts": 1,
+      "checkpoint": {},
+      "eta": null,
+      "mutations": [],
+      "child_session_key": null,
+      "agent_trace": []
+    },
+    {
+      "status": "complete",
+      "started_at": "2026-11-15T21:57:36.206274Z",
+      "completed_at": "2026-11-15T21:57:36.236346Z",
+      "failed_at": null,
+      "skipped_at": null,
+      "blocked_at": null,
+      "output_paths": [
+        "/home/node/.openclaw/workspace/work/flow/public-science-harness/studies/cambrian-substrate/taskflow/steps/02-reconciliation-audit.md",
+        "/home/node/.openclaw/workspace/work/flow/public-science-harness/studies/cambrian-substrate/tests/audit_report.json"
+      ],
+      "output_metadata": {},
+      "error": null,
+      "attempts": 1,
+      "checkpoint": {},
+      "eta": null,
+      "mutations": [],
+      "child_session_key": null,
+      "agent_trace": []
+    }
+  ],
+  "output_dir": "/home/node/.openclaw/workspace/work/flow/public-science-harness/studies/cambrian-substrate/taskflow",
+  "created_at": "2026-11-15T21:56:43.645240Z",
+  "updated_at": "2026-11-15T21:57:36.236371Z",
+  "final_path": null
+}
