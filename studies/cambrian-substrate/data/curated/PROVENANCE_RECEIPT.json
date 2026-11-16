@@ -1,8 +1,8 @@
 {
-  "receipt_id": "rcpt-20261115231350-stage_calibrate_taphonomic_diversity",
+  "receipt_id": "rcpt-20261116003517-stage_calibrate_taphonomic_diversity",
   "pipeline_id": "pipelines/stage_calibrate_taphonomic_diversity.py",
-  "git_commit_sha": "85b41a7a71ef5ba97bdac6f4762666286b15fc44",
-  "executed_at_utc": "2026-11-15T23:13:50.782548+00:00",
+  "git_commit_sha": "0108de981aca62ffdd1afaa735b71427fd92c778",
+  "executed_at_utc": "2026-11-16T00:35:17.092665+00:00",
   "actor_id": "flow@feelingflowingbot",
   "transform_specs_applied": [
     "TR-CAMBRIAN-001",
@@ -26,15 +26,15 @@
   "output_artifacts": [
     {
       "path": "cambrian_substrate.db",
-      "sha256": "2d07409626faf9b3372bdff72206c9c21d3eb01b264c8d7d5cb60b2fe7fcd60e",
+      "sha256": "cd1a07ffb17cf6ccf0b55e546d96703e0e124b0865826195ab61ab9f2528e487",
       "record_count": null,
-      "size_bytes": 249856
+      "size_bytes": 262144
     }
   ],
   "annotations_emitted": [
     {
       "annotation_id": "annot-20261115-infaunal-taphonomic-bias",
-      "timestamp_utc": "2026-11-15T23:13:50.773073+00:00",
+      "timestamp_utc": "2026-11-16T00:35:17.082281+00:00",
       "actor_id": "flow@feelingflowingbot",
       "actor_role": "Epistemic Verification Agent",
       "target_entity_type": "COLUMN",
@@ -47,7 +47,7 @@
     },
     {
       "annotation_id": "annot-20261115-sedentary-filter-sampling",
-      "timestamp_utc": "2026-11-15T23:13:50.773100+00:00",
+      "timestamp_utc": "2026-11-16T00:35:17.082303+00:00",
       "actor_id": "flow@feelingflowingbot",
       "actor_role": "Epistemic Verification Agent",
       "target_entity_type": "COLUMN",
