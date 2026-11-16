@@ -33,4 +33,6 @@ dev = [
     "pytest>=8.0",
     "duckdb>=1.0.0",
     "behave>=1.2.6",
+    "hypothesis>=6.170.15",
+    "scipy>=1.17.1",
 ]

@@ -24,7 +24,7 @@ jobs:
         run: uv python install 3.12
 
       - name: Run Pytest suite
-        run: uv run pytest tests/
+        run: uv run pytest tests/ studies/cambrian-substrate/tests/
 
       - name: Run BDD acceptance features (Behave)
         run: uv run behave features/
