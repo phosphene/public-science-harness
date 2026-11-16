@@ -2,7 +2,7 @@
 
 **Active Engineering and Statistical Workbench for Public Science**
 
-`public-science-harness` is the platform engineering and statistical workbench of Phosphene. Working alongside `monograph-review`, this repository shifts the platform team's focus from post-hoc manuscript auditing to building the empirical substrates, instrumented models, and calibration tests required for reproducible normal science.
+`public-science-harness` is the platform engineering and statistical workbench of Phosphene. Working alongside `monograph-review`, this repository shifts the platform team's focus from post-hoc manuscript auditing to building the empirical benches, instrumented models, and calibration tests required for reproducible normal science.
 
 ---
 
