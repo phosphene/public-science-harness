@@ -1,0 +1,57 @@
+{
+  "timestamp_utc": "2026-11-16T00:35:16.940392+00:00",
+  "database": "cambrian_substrate.db",
+  "audits": {
+    "stratigraphic_invariants": {
+      "total_horizons": 6,
+      "violations_count": 0,
+      "status": "PASS"
+    },
+    "taxon_string_truncation": {
+      "max_length": 30,
+      "is_truncated": false,
+      "status": "PASS"
+    },
+    "homoglyph_detection": {
+      "distinct_taxa_scanned": 431,
+      "homoglyph_risks": 0,
+      "status": "PASS"
+    },
+    "bit_boundary_check": {
+      "min_id": 0,
+      "max_id": 0,
+      "has_overflow_clipping": false,
+      "status": "PASS"
+    },
+    "taphonomic_hazard_audit": {
+      "guild_breakdown": {
+        "MOBILE_APEX_PREDATOR": {
+          "distinct_taxa": 295,
+          "distinct_genera": 247,
+          "total_occurrences": 634,
+          "sampling_ratio": 2.15,
+          "mean_age_ma": 499.31
+        },
+        "SEDENTARY_FILTER_FEEDER": {
+          "distinct_taxa": 81,
+          "distinct_genera": 58,
+          "total_occurrences": 246,
+          "sampling_ratio": 3.04,
+          "mean_age_ma": 499.78
+        },
+        "INFAUNAL_BURROWER": {
+          "distinct_taxa": 4,
+          "distinct_genera": 3,
+          "total_occurrences": 5,
+          "sampling_ratio": 1.25,
+          "mean_age_ma": 498.19
+        }
+      },
+      "taphonomic_trap_detected": true,
+      "hazard_notes": [
+        "Taphonomic Hazard: Soft-bodied Infaunal Burrowers have only 5 body occurrences in standard PBDB metazoan bins vs 634 for Arthropoda and 246 for Brachiopoda/Porifera. Their evolutionary radiation is preserved primarily as ichnofossils (burrow traces) rather than body fossils. Any birth-death diversity-dependence (Gl) model fitted strictly on body fossil counts without trace-fossil correction will severely underestimate infaunal richness and distort the Gl slope."
+      ],
+      "status": "WARN_IDENTIFIED_HAZARD"
+    }
+  }
+}
