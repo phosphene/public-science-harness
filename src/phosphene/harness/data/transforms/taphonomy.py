@@ -7,7 +7,7 @@ Pure mathematical, ontological, and epistemic transformations.
 from __future__ import annotations
 
 from typing import Dict, List, Sequence
-from phosphene.core import InvariantStatic
+from phosphene.harness.data.core.vitals import InvariantStatic
 from phosphene.harness.data.transforms.provenance import (
     DataAnnotationEvent,
     JudgmentType,

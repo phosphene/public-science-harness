@@ -1,24 +1,48 @@
 """
 Phosphene Public Science Harness — Axiomatic Core Vitals
-Conforms to Phosphene Python Standards (Part 8) and Mertz (2021) Missingness Taxonomy.
-Directly imports canonical operational modes from phosphene.core.
+Conforms to Phosphene Python Standards and Mertz (2021) Missingness Taxonomy.
+Directly implements canonical operational modes with Invariant/Mutable x Static/Dynamic semantics.
 """
 
 from __future__ import annotations
 
 from enum import Enum
 from typing import Any, Generic, TypeVar
-from pydantic import Field
-
-# Canonical operational modes from phosphene.core (Part 8 Care Package)
-from phosphene.core import (
-    InvariantDynamic,
-    InvariantStatic,
-    MutableDynamic,
-    MutableStatic,
-)
+from pydantic import BaseModel, ConfigDict, Field
 
 T = TypeVar("T")
+
+
+class InvariantStatic(BaseModel):
+    """
+    A fixed-width, read-only record (Axioms).
+    Rejects unknown keys — extra='forbid', frozen=True.
+    """
+    model_config = ConfigDict(frozen=True, extra="forbid")
+
+
+class InvariantDynamic(BaseModel):
+    """
+    A read-only snapshot of arbitrary data (OWA Ingestion).
+    Accepts unknown keys — extra='allow', frozen=True.
+    """
+    model_config = ConfigDict(frozen=True, extra="allow")
+
+
+class MutableStatic(BaseModel):
+    """
+    A controlled state machine.
+    Rejects unknown keys — extra='forbid', frozen=False.
+    """
+    model_config = ConfigDict(frozen=False, extra="forbid")
+
+
+class MutableDynamic(BaseModel):
+    """
+    A flexible, type-aware dictionary.
+    Accepts unknown keys — extra='allow', frozen=False.
+    """
+    model_config = ConfigDict(frozen=False, extra="allow")
 
 
 class MissingnessCategory(str, Enum):
