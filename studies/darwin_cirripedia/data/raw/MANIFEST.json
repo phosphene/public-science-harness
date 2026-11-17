@@ -1,0 +1,30 @@
+[
+  {
+    "filename": "darwin_1851_living_lepadidae_ray_soc.txt",
+    "title": "A Monograph on the Sub-class Cirripedia: The Lepadidae (Ray Society 1851)",
+    "url": "https://archive.org/download/amonographonthes31558gut/31558-8.txt",
+    "bytes": 851243,
+    "sha256": "388bdc0abb2f53fc82ccb2b8a40f5ecd976498330407259bc369a4cf73db2665"
+  },
+  {
+    "filename": "darwin_1854_living_balanidae_ray_soc.txt",
+    "title": "A Monograph on the Sub-class Cirripedia: The Balanidae, Verrucidae, etc. (Ray Society 1854)",
+    "url": "https://archive.org/download/amonographonthes46408gut/46408-0.txt",
+    "bytes": 1854389,
+    "sha256": "ccf1e6d91e58b2ff2b9bf27d21312a68b359ff65565f006795fd50d03b8165ab"
+  },
+  {
+    "filename": "darwin_1851_fossil_lepadidae_palaeont_soc.txt",
+    "title": "A Monograph on the Fossil Lepadidae, or, Pedunculated Cirripedes of Great Britain (Palaeontographical Society 1851)",
+    "url": "https://archive.org/download/darwin-online_1851_FossilLep_F342.1/1851_FossilLep_F342.1_djvu.txt",
+    "bytes": 299647,
+    "sha256": "3071d89b29ba9f6e60c40b51bc6ed2ca555ceb314c637cc8e7bb672580e488a0"
+  },
+  {
+    "filename": "darwin_1854_fossil_balanidae_palaeont_soc.txt",
+    "title": "A Monograph on the Fossil Balanidae and Verrucidae of Great Britain (Palaeontographical Society 1854)",
+    "url": "https://archive.org/download/darwin-online_1854_FossilBal_F342.2/1854_FossilBal_F342.2_djvu.txt",
+    "bytes": 138127,
+    "sha256": "723a853495ef32f96b48c9fbcb19b710596d1b5bb04d80c9e31e330e8871eec8"
+  }
+]
