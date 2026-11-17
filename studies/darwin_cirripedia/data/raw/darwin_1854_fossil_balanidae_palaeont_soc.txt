@@ -1,0 +1,3032 @@
+PAL^ONTOGRAPHICAL SOCIETY 
+
+
+
+INSTITUTED MDCCCXLVII. 
+
+
+
+The Comolete Work of Charles Darwin Online. 
+
+
+
+A MONOGRAPH 
+
+
+
+FOSSIL BALANID^ 
+
+
+
+VERRUCID^ 
+
+
+
+GREAT__^RITAIN. 
+
+
+
+
+CHARLES DARWIN, F.R.S., F.G.S. 
+
+
+
+LONDON : 
+
+PRINTED FOR THE PALjEONTOGRAPHICAL SOCIETY. 
+1854. 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+I. B. AOLABD, PRINTER, BARTHOLOMBW Cl 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+PREFACE. 
+
+
+
+As the present short Monograph completes my work on British Fossil Cirripcdes, 
+I beg to be permitted again to have the satisfaction of returning my very sincere thanks to 
+the many naturalists who have placed their collections at my disposal, and have given 
+me the freest permission to use the specimens, in whatever manner I might find necessary. 
+—My thanks are most especially due to Mr. Searles Wood, Mr. Bowerbank, and 
+Sir Charles Lyell ; and to Mr. J. de C. Sowerby for the use of the original specimens 
+figured in the ‘ Mineral Conchology.’ I lie, also, under much obligation to Mr. D. Sharpe, 
+Mr. Greenough, Mr. Smith of Jordan Hill, Professor Tennant, Mr. Charlsworth, 
+Mr. F. Edwards, Dr. T. Wright, Professor Forbes, Professor Henslow, M. Bosquet, and to 
+many others. I must, also, be permitted to tender my grateful thanks to the Council of 
+the Palffiontographical Society for the very liberal manner in which they have allowed my 
+two Monographs to be illustrated. 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+V 
+
+
+
+
+
+z 
+
+
+
+INTRODUCTION. 
+
+
+
+CiKRiPEDiA may be divided, as I have recently shown in a monograph on the Balanida* 
+published by the Ray Society, into three Orders : of these, the Thoracica includes all 
+ordinary Cirripedes, and all ever likely to be found fossil, and therefore the two other orders 
+may be here passed over without notice. The Thoracica contains three Families : the 
+Balanidac or Sessile Cirripedes, which in a recent state so abound on the shores of almost 
+every quarter of the world, and which are so frequently found in Tertiary deposits ; the 
+Verrucidae, which includes only a single genus very singular from its asymmetrical 
+shell ; and the Lepadidae, or Pedunculated Cirripedes ; of the latter, the Fossil species have 
+been already published by the Falaeontographical Society. The Balauidae and Verrucidae will 
+be treated of in the following pages. As yet only sixteen species in these two families 
+have been found fossil in Great Britain ; and of these sixteen, nine are still living forms. 
+As the latter are known only imperfectly in their fossil condition, and as they have lately 
+been described by me in full detail, I have thought it best here only to make a few remarks 
+on such portions of the shells of each species as have hitherto been discovered, adding a 
+few illustrations, such as appeared to me desirable. The extinct species will be fully 
+described : of these, all the figures given are from British specimens. But of the species 
+found both living and fossil, I have in several instances (always so stated) given drawings 
+from recent specimens; some of the valves either not having been found fossil, or 
+found only in an imperfect and not characteristic condition. As so few species in the 
+several genera are known in a fossil condition, I have thought it quite superfluous to give 
+long generic descriptions, which would have required constant references to many species 
+exclusively found living. 
+
+In my former monograph on the Fossil Lepadidse, I remarked how much the natural 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+INTRODUCTION. 
+
+
+
+history of Cirripedes has been neglected ; and this remark is eminently applicable to the 
+Balanidae, or Sessile Cirripedes. Even the British recent species have not been well made 
+out, and as for the fossil species, scarcely anything has been done, besides the publication of 
+some figures, in very few instances accompanied by the details which are absolutely neces- 
+sary for the identification of the species. 
+
+Owing to the great variation in external characters, to which almost all the species are 
+subject, and likewise in the case of the principal genus, Balanus, to its being a very natural 
+genus, that is, to the species following each other in close order, it is not easy to 
+exaggerate the difficulty of identifying the species, except by a deliberate examination of 
+the internal and external structure of each individual specimen. Every one who has 
+collected Sessile Cirripedes must have perceived to what an extent their shape depends on 
+their position and gro\iping. The surface of attachment has a great effect on that of the 
+shell ; for as the walls arc added to at their bases, every portion has at one time been in 
+close contact with the supporting surface; thus I have seen a strongly-ribbed species 
+{B.porcatus) and a nearly smooth species (5. crenatua) closely resembling each other and 
+both having a peculiar appearance, owing to their having been attached to a pecten. 
+Dr. Gray has pointed out to me specimens of the recent B. patellaris, curiously pitted like 
+the wood to which they had adhered ; and numberless other instances might be added. 
+Quite independently of the effect produced by the surface of attachment, the degree to 
+which the longitudinal folds and ribs are developed on the parietes, is variable in moat of 
+the s|)ecie8, as in B. tintinnabulum and even in B. porcatus; the presence or entire 
+absence of these ribs often surprisingly alters the whole aspect of the shell. The persistence 
+of the so-called epidermis is in some degree variable, though this is of little importance in 
+regard to fossil specimens. Again, some species in certain localities are all subject to the 
+disintegration of the entire outer lamina of the walls; and in such cases (as with 
+B. perforatus) there is not the smallest resemblance between the corroded and perfect 
+specimens. The size of the orifice, and consequently of the operculum, compared with the 
+shell, varies accordingly as the shell is more or less conical or cylindrical ; in the 
+latter case, the summits of the radii are generally more oblique and the orifice consequently 
+more deeply toothed than in the more conical varieties. Size is a serviceable character in some 
+cases, but very many specimens are required to ascertain the average or maximum size 
+of each species, for there is no method of distinguishing a half-grown from a full-grown 
+specimen ; and I believe, as long as the individual lives, so long does it go on growing. 
+Colour is of very considerable service; but the majority of the species have their 
+white or nearly white varieties, the latter being sometimes as numerous as the coloured 
+ones. 
+
+Besides the slight variation in the obliquity of the summits of the radii and alae, de- 
+pendent on the more or less cylindrical form of the shell, in some species, as in B. 
+tintinmbulum and porcatus, their obliquity also varies occasionally from unknown causes. 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+INTRODUCTION. 
+
+
+
+and thus greatly affects the general appearance of the shell. In some few species, as in 
+B. perforatua, the radii are often either not at all developed, or are of very variable width ; 
+in others, when the shell has become cylindrical, or when very old, the radii cease to grow, 
+and from the disintegration of the whole upper part of the shell, with the continued growth of 
+the lower part, the radii at last come to exist as mere fissures: I have seen instances of this 
+in B. tintimabulum and porcatus. Nevertheless, the obliquity of the upper margin, and 
+the breadth of the radii are useful characters ; and still more useful is the fact whether the 
+upper margins are smooth and arched, or straight and jagged. The fact of the terga being 
+more or less beaked is useful : as is, likewise, the presence of striae, or furrows, or rows 
+of pits, radiating from the apices of the scuta; but to ascertain the presence of these marks, 
+it is almost invariably necessary to clean and examine the scuta with a lens ; these ridges 
+and furrows, moreover, in some species, as is strikingly the case with B. tintinnabulum, 
+and in less degree with B. concavus, appear and disappear, and vary without any apparent 
+cause. 
+
+Now if we reflect that form, size, state and nature of the surface, presence of epidermis, 
+relative size of the orifice, presence of longitudinal ribs, tint, and often the existence of any 
+colour, are all highly variable in most of the species ; and that the obliquity of the summits 
+of tlie radii, and the presence of longitudinal striae on the scuta, are variable in some of the 
+fossil species, we shall perceive how difficult it must ever be to distinguish the species from 
+external characters. Let no one attempt to identify the species of this genus, without being 
+prepared to separate, clean, and carefully examine with a microscope the basis and parietes, 
+and both the under and upper surfaces of the opercular valves; for I feel convinced, that 
+he will otherwise throw away much labour. Moreover, in many cases, it is almost neces- 
+sary, on account of the variabifity of the characters, to possess several specimens. From 
+these facts, I have not hesitated to use characters, for the identification of the species, which 
+require close examination, though I would gladly have seized on external characters could 
+I have found such even moderately constant. 
+
+The least varying, and therefore most important characters, must be taken from the 
+internal structure of the parietes, radii, and basis : not that these characters arc absolutely 
+invariable ; thus the porosity of the parietes is slightly variable in the recent B. glandula, 
+and highly variable in the fossil B. ungui/ormis. The porosity of the basis is in some 
+degree variable in B. spongicola. Characters derived from the general shape, and from 
+the ridges and depressions on the under side of the scuta and terga, especially of the 
+scuta, are highly serviceable ; though even these are variable. The cause of the opercular 
+valves offering more useful characters, as far as outline is concerned, than do the walls of 
+the shell, is no doubt due to their being almost independent of any influence from the 
+nature of the surface of attachment. Even the ridges and depressions on the under side of 
+the scuta, which are in direct connexion with the muscles and soft parts of the animal, 
+vary to a certain extent : thus the length and prominence of the adductor ridge is decidedly 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+INTRODUCTION. 
+
+
+
+variable in the fossil B. concavus and tintinnabidum; the size and form of the little cavity 
+for the lateral depressor muscle varies in many species ; so does the exact shape and degree 
+of prominence of the articular ridge. There is one character in the terga, which at first 
+would be thought very useful, namely, whether an open longitudinal furrow, or a closed 
+fissure runs down outside the valve from the apex to the spur ; but it is found that the furrow 
+almost always gradually closes up during growth ; and as a consequence of this, the width 
+of the spur compared to that of the whole valve, as well as its distance from the basi-scutal 
+angle, and the form of its basal extremity, all vary in some degree. The length of the 
+spur sometimes varies considerably, as in B. concavus. The summits of the radii are apt 
+to be oblique in the young of some species, whereas they are generally quite square in the 
+old of the same. In some species the scuta become longitudinally striated only with age ; 
+on the other hand, in very young specimens of B. tintinnabulum, the scuta sometimes are 
+deeply impressed by little pits placed in rows. I have already alluded to the longitudinal 
+furrow on the tergum so entirely changing its character, owing to the edges becoming, 
+during growth, folded inwards, and to the consequences which result from this. The inner 
+lamina of the parietes generally loses, to a certain extent, its longitudinally ribbed character 
+in old age. The basis is solid instead of being porose, in very young specimens of some 
+species. In all the species, the carino-Iateral compartments, in early age, ai-e very 
+narrow in proportion to the width of the lateral compartments ; and in all, at this early 
+period, the operculum is large in proportion to the whole shell. 
+
+Finally, I must state my deliberate conviction that Sessile Cirripedes can very seldom 
+be satisfactorily identified in a fossil condition, without an examination of the opercular 
+valves: hence when these have not been discovered, I have resolved, with some rare 
+exceptions, not to attach a specific name to a shell without its operculum ; for thus, I 
+believe, I should odd to the number of useless synonyms, which, as we shall immediately 
+see, already exist. Nothing, indeed, could have been easier than to have affixed names to 
+many groups of specimens, having different aspects, but to feel sure that these were really 
+distinct species requires better evidence than can be afforded by the shell, without the 
+opercular valves. When the speeimens are much fossilised, it is, indeed, difficult to make 
+out the primary points of structure in the genus Balanus — namely, whether the parietes, 
+radii, and basis are porose : to do this it is sometimes necessary to rub down, polish, and 
+carefully examine, a transverse section of a piece of the shell. 
+
+The ancient history of the Balanidm is a brief one. No Secondary species has hitherto 
+been discovered ; in my former monograph on the fossil Lepadidac' I have shown that 
+the negative evidence in this case is of considerable value, and consequently that there is 
+much reason to doubt whether any member of the family did exist before the eocene period. 
+
+' Since the note to page 5 of that work was written, I have been informed that the so-called cretaceous 
+Tubieinella maxima is not n Cirripede. 
+
+
+
+INTRODUCTION. 
+
+
+
+The existence of a Cretaceous Verruca is an apparent exception to the rule, as this genus has 
+hitherto always been ranked among Sessile Cirripedes ; but Verruca, as we now know, must 
+be placed in a family by itself, namely, the Verrucidae, quite distinct from the Balanidm. 
+Balanus is the oldest genus as yet known ; it first appeared in Europe and North America, 
+during the deposition of the eocene beds ; and was at that time, as far as our information at 
+present serves, represented by very few species. In South America, one species of Balanus 
+abounds in individuals in the ancient Patagonian tertiary formation. I have seen, in the 
+British Museum, specimens said to have come from the eocene nummuUtic beds, near the 
+mouth of the Indus, belonging to that section of the genus, which has the walls and 
+basis permeated by pores. Generally, the extinct forms belong to the section, which has 
+the parietes not j)ermeated by pores. During the raiocene and pliocene ages. Sessile 
+Cirripedes abounded. No extinct genus in this family has hitherto been discovered. It is 
+singular, that though the Chthamalinae approach much more closely than do the Balaninae 
+to the ancient Lepadidm, of which so many species have been found fossil even in the 
+older Secondary formations, yet that only one species of one genus of this sub-family has 
+been hitherto found in any deposit; and that species is the still existing Pachylama 
+giganteum, in the modern beds of Sicily. During the epoch of the Glacial deposits in 
+Scandinavia, Scotland, and Canada, the still existing species seem to have abounded; 
+and they attained larger average dimensions than the same species now do on the shores 
+of Great Britain, or even on the shores of the northern United States, where the average 
+size seems larger than on this side of the Atlantic. 
+
+I already have given my reasons for very seldom naming any Sessile Cirripede 
+without examining the opercular valves : it has been owing to this, as it appears to me, 
+proper want of caution, that there are so many nominal species. Thus it is made to 
+appear in catalogues, that the tertiary seas abounded with species of Balanus to an 
+extent now quite unparalleled in any quarter of the world. Bronn,^ for instance, in his 
+invaluable ‘ Index Palaeontologieus,’ gives the names of thirty-five Balani, found fossil in 
+Europe, and I have not counted those found only in alluvial deposits, as they would 
+certainly be the same as the still living species. Now I know only eleven recent Balani 
+on the shores of all Europe, from the North Pole to lat. 30°; and of these I doubt whether 
+B. balanoides and improvisus have been found fossil. In the Red Crag there is one extinct 
+Balanus : in the Coralline Crag, whieh seems to have been very favorable to the existence 
+of Cirripedes, there are six species of Balani, of which two are absolutely extinct, and 
+one does not occur in any neighbouring sea : in the Eocene formations the species seem 
+to have been rare, and I have seen only one, and that is an extinct form. Taking these 
+several facts into consideration, and bearing in mind that Cirripedes usually range widely, 
+
+' To save any other person interested in fossil Cirripedia, going through the several works quoted by 
+Bronn, I have given some remarks on his list of species, in an appendix at the end of the Balanidie, in my 
+volume published by the Ray Society. 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+INTRODUCTION. 
+
+
+
+I do not believe, if all the specimens of Balani hitherto found in the several tertiary 
+formations, from the Eocene to the Glacial deposits, throughout Europe, were collected 
+together, they would amount to twenty species. I have myself seen, in a recognisable 
+state, only twelve fossil species, of which five are extinct or not found in any neighbouring 
+sea : I think it probable that three other recent species, viz., B. tulipiformis, perforatua, 
+and amphitrite, may occur in the Mediterranean formations : and this would make fifteen 
+species. Therefore, in the above estimate of twenty species, five are allowed for species 
+existing in European collections, but not hitherto seen by me ; and this, I believe, is a very 
+full allowance. Consequently, even on the supposition that the five species just admitted 
+as possibly existing in cabinets, and that the other five extinct species, which I have seen 
+and examined, have all been previously named by other authors, a supposition excessively 
+improbable, even then there would be fifteen superfluous names in Bronn. 
+
+The following short table shows how the Balanidae and Verrucidse were represented in 
+Great Britain, throughout the several Tertiary Stages. It includes all the sixteen species 
+described in the following pages, with the exception of one, the cretaceous Verruca prisca, 
+which is the only member of either family hitherto found in any Secondary deposit. 
+
+
+
+
+INTRODUCTION. 
+
+
+
+7 
+
+
+
+As affording some standard of comparison by which to compare the number of species 
+found fossil in any Tertiary deposit, in relation to the number of species probably existing 
+in the neighbouring seas during the same epoch, T may state that there are now living and 
+propagating on the shores of Great Britain, eleven species belonging to the two Far dies 
+included in the above table. In the Coralline crag, which seems to have been emi- 
+nently favorable for the existence and subsequent preservation of Cirripedes, and which 
+has been so well worked, nine fossil species of these two famihes, as may be seen in the 
+table, have been discovered. 
+
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+NOMENCLATURE OF THE SHELL OP A SESSILE CIRRIPEDE. 
+
+
+
+
+
+
+
+
+Fig. 8. Fig. 3. 
+
+
+
+
+Fig. 2. Compartment with two radii, serving, in fossil specim 
+Fig. 3 serves as a Lateral and Carino-lateral Compartment. 
+
+
+
+
+OPERCULAR VALVES. 
+
+
+
+Fig. 6. SctiTtin (internal view). 
+
+
+
+Fig. 6. Txbodm (internal view). 
+
+
+
+OccLUDENT Margin 
+Cavity for Adductor 
+Muscle 
+
+Adductor Ridge 
+
+
+
+
+Fig. 7. Tehgiim (external view). 
+
+
+
+
+© The ComDiete Work of Charles Darwin Online 
+
+
+
+INTRODUCTION. 
+
+
+
+On the Names given to the different parts of Cirripedes. 
+
+In my former volume I stated that I had found it indispensable, in part owing to 
+the extreme confusion of the nomenclature previously used, to attach new names to several 
+of the external parts of Cirripedes. Almost all these names are applicable to the Balanidsc, 
+or Sessile Cirripedes, and to the Verrucidae ; but a few additional names are requisite, 
+which, together with the old names, will, I hope, be rendered clear by the accompanying 
+woodcuts. In Sessile Cirripedes, Ule whole of that which is externally visible, may, for 
+convenience sake, be divided into the operculum or opercular valves {valves operculares)> 
+and the shell {testa), though these parts homologically present no real difference. The 
+operculum is seated generally some little way down within the orifice of the shell ; but in 
+very young specimens, and in Verruca, the operculum is attached to the summit of the 
+shell, and in these cases the shell, without the operculum be removed, can hardly be said 
+to have any orifice ; though, of course, the opercular valves themselves have an aperture 
+for the protrusion of the cirri. 
+
+The shell consists of the basis (called the support by some authors), and of the com- 
+partments {testes valves), which in recent specimens vary from eight to four in number, and 
+occasionally are all calcified together. 
+
+The compartment, at that end of the shell (fig. 1) where the cirri are exserted through the 
+aperture or lips of the operculum, is called the carina (fig. 4) ; the compartment opposite to 
+it, is the rostrum (in all fossil specimens, like fig. 2), — ^these two lying at the ends of the 
+longitudinal axis of the shell. Those on the sides are the lateral compartments; that 
+nearest the carina, being the carino-latered (fig. 3) {testes valva carino-lateralis), that 
+nearest the rostrum, the rostro-lateral, and middle one simply the lateral compartment 
+(fig 3): but these three compartments are rarely present together. The rostro-lateral com- 
+partment, which always resembles fig. 2, and may be always known by having radii on 
+both sides, is not known to occur in any fossil species ; and hence we are here only con- 
+cerned with the lateral and carino-lateral compartments. The compartments are separated 
+from each other by sutures, which are often so fine and close as to be distinguished with 
+difficulty. The edge of a compartment, which can only be seen when disarticulated from 
+its neighbour, I have called the sutural edge {ades suturalis). 
+
+Each separate compartment consists of a wall {paries), or parietal portion {pp in figs. 1 
+and 4), which always grows downwards, and forms the basal margin ; and is furnished on 
+the two sides either with ales (fig. 4), or with radii (fig. 2), or with an ala on one side and 
+a radius (fig. 3) on the other. 
+
+The radius (adopting the name used by Bruguiere, Lamarck, and others) differ 
+remarkably in appearance (though not in essence) from the wall or parietal portion, owing 
+to the direction of the lines of growth and the state of its usually depressed surface. In 
+the upper part, the radii overlie the alae of the adjoining compartments : in outline 
+
+2 
+
+
+
+© The ComDiete Work of Charles Darwin Online 
+
+
+
+10 
+
+
+
+INTRODUCTION. 
+
+
+
+(r, fig. 2, 3), they are wedge-formed, with their points downwards ; tlieir summits (and 
+this is often a useful specific character) are either parallel to the basis, or as in fig. 1, 2, 
+oblique. The radii are sometimes not developed.' 
+
+The aUs (so called by Dr. Gray) are overlapped by the radii, and by part of the walls ; 
+they usually extend only about half way down the compartment (a, fig. 3, and 4) ; their 
+summits are either parallel to the basis or oblique. The aim of the several compartments, 
+together with the internal, upper, thickened surfaces of the walls, against a shoulder of 
+which the sutural edges of the aim abut, have been called (by Dr. Gray) the sheath [,vagina). 
+The upper and greater portion of the sheath is marked by transverse lines, caused by the 
+exuviation of the opercular membrane, as that membrane may be called, which unites the 
+operculum all round to the sheath, or upper internal surface of the shell. 
+
+The Carina has always two alee, as in fig. 4. 
+
+The carino-lateral- and lateral compartments have always an ala on one (the rostral) 
+side, and a ratHus on the other (the carinal) side, as in fig. 3. 
+
+The rostro-lateral conipartment (not at present known to occur in any fossil) has always 
+radii on both sides, as in fig. 2. 
+
+The rostrum has normally alee on both sides, as in fig. 4 ; but in many recent, and 
+all the fossil species yet known, it has radii on both sides, as in fig. 2, ow'ing to its fusion 
+with the rostro-lateral compartments on both sides. 
+
+The w'alls of the shell, the basis, and the radii, are in very 
+many cases composed of an outer and inner lamina, united 
+together by septa ; a set of pores or tubes being thus formed. 
+The points of the septa generally project beyond the laminae, 
+and are denticulated on both sides, as shown in the accompany- 
+
+with that end. dcoti- WOOdcUt. 
+
+Operculum, or opercular valoes. — These consist of a pair of scuta and a pair of terga. 
+They are joined to the sheath of the shell by the opercular membrane, 
+
+Seutum (fig. 5) : this valve is generally sub-triangular, and its three margins are 
+the basal, the lerpal, so called from being articulated with the tergum, and the oceludent, 
+so called from opening and shutting against the opposed valve. The angles are named, 
+from the adjoining margins, as basi-terpal, &c. ; the upper angle being the apex. The 
+scutum is ordinarily articulated to the tergum by an articular ridge {crista articularis), 
+running up to the apex of the valve, and by an articular furrow, which latter receives the 
+
+
+
+i. 
+
+
+
+' The radii have becu called by Kauzaui and De Blainville “ areae depreaaee” (the parietal portions of 
+the compartments being the “arcoe prominentes”); by Poli, “areae inteijectae j” by Gray, "sutures;" 
+by Coldstream, “ compartments of the second order,” (the parietal portions being those of the first order) ; 
+by some authors, " intersticia." I may here add that the scuta are the “ventral valves” of Gray, the 
+“ anterior” of Rnnzani, and the “ inferior opercular” of De Blainville : the terga are the “ posterior valves” 
+of Gray and Ranzani, but the “ superior opercular” of De Blainville : the rostrum, on the other hand, is the 
+“ anterior valve” of Ferussac, and the “ventral” of De Blainville; the carina being the “ dorsal valve” of 
+the latter author. 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+INTRODUCTION. 
+
+
+
+11 
+
+
+
+scutal margin of the tergnm. The articular ridge, instead of projecting straight up from 
+the valve, when the latter is laid flat on its external surface, often bends over to the tergal 
+side, and is then said to be r^exed. On the internal surface of the valve there is almost 
+always an adductor pit or cavity {focaa adductoru), for the attachment of the adductor 
+scutorum muscle : this pit is often bounded on its tergal and basal sides, by a ridge, called 
+the adductor ridge {critta adductoris), which, in its upper part, is often confluent with the 
+articular ridge. Beneath the adductor ridge, in the basi-tergal comer of the valve, there 
+is often a lateral-depretsor pit {fosea musculi laferalit depreasoris), for the attachment of 
+the so-called muscle ; and this pit is sometimes furnished with crests. 
+
+Tergum, (flgs. 6 and 7) : — this valve, also, has three margins, the scutal, basal, and 
+carinal; its upper end, or apex, is sometimes beaked; on the basal margin a spur (calcar) 
+depends; the outer surface of the valve is depressed or longitudinally furrowed (sulcus 
+longitudinalis) in the line of the spur. The part called the spur is often so broad, that the 
+name becomes not very appropriate. The angles are denominated, from the adjoining 
+margins, as basi-carinal, or basi-scutal angle, &c. On the under side, in the upper part, 
+there is an articular ridge, and on its scutal side, an articular furrow, receiving the 
+articular ridge of the scutum. In the basi-carinal corner of the valve there are often crests 
+for the attachment of the tergal depressor muscle. 
+
+Relative position of parts. — ^The centre of the generally flat basis, which is cemented 
+to the supporting surface, is properly the anterior end, and the tips of the terga, often 
+hidden within the shell, are properly the posterior end of the external covering ; but I have 
+found it more convenient to speak of the upper and basal surfaces and aspects, which 
+hardly admit of any mistake. A line drawn from the centre of the basis, along the middle 
+of the rostrum to the tips of the scula, shows the strictly medio-ventral surface of the shell ; 
+and another line drawn from the centre of the basis, along the carina, to the tips of the 
+terga, shows the strictly medio-dorsal line ; but from the crooked course of these lines, I 
+have found it far more convenient to speak of the rostral and carinal end or aspect of the 
+diflerent parts of the shell. There has, moreover, been great confusion in these relative 
+terms, as applied by different authors. 
+
+When a sessile Cirripede is held in the position in which they have generally been 
+figured, namely with the basis downwards and the scuta towards the beholder, then the 
+right and left sides of the Cirripede correspond with those of the holder. 
+
+
+
+Sub-class — Cirripedia. Order — Tiioracica. 
+
+
+
+Family — Balanid^. 
+
+Cirripedia sine pedunculo ; scuta et terya musculis depressoribus instructa ; relirpue 
+testes valves inter se immobiliter conjuncfes. 
+
+Cirripedia without a peduncle ; scuta and terga furnished with depressor muscles ; 
+other valves united iinmoveably together. 
+
+This family, which includes all true Sessile Cirripedes, may be divided into two very 
+natural sub-families ; namely, the Balaninse and Chthamalinsc ; but as not one member of 
+the latter has been found fossil in Great Britain, and indeed only one, the Pachylasma 
+giganteum, in any part of the world, viz., in the recent beds of Sicily, this sub-family of 
+the Chthamalinse may be here passed over in silence. 
+
+
+
+Sub- Family — Balamin.£. 
+
+Rostrum cum radiis, sed sine alls : valves testa laterales omnes, ex uno latere alis, ex 
+altero radiis instructa : parietes fere aut porosi, aut ad interiorem superficiem longitudi- 
+naliter costati. 
+
+Shell with the rostrum having radii, but without ate ; lateral compartments all having 
+alae on one side and radii on the other side ; parietes generally either porose, or longi- 
+tudinally ribbed on their inner surfaces. 
+
+
+
+Genus — Balanus, Auct. 
+
+CoNOPBA (pars generis). Say. Journal Nat. Sc. Philadelphia, vol. ii, Part 2, 1822. 
+Messcla (do.) heath. Zoological Journal, vol. ii, 1825. 
+
+Chibona (do.) J. E. Gray. Philosoph. Transacts., 1835, p. 37. 
+
+Valva operculares inter se articulata, subtriangulares ; valva testa 6 ; beisis calcarea aut 
+membranacea. 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+BALANUS. 
+
+
+
+13 
+
+
+
+Scutum and tergum articulated together, sub-triangular; compartments six; basis 
+calcareous or membranous. 
+
+The genus Balanus already includes 45 species, recent and fossil, and consequently 
+in my volume published by the Biiy Society, I have divided the genus into sections, 
+on characters derived from the porosity of the parietes, radii, and basis ; and on whether 
+the basis be membranous or calcareous. But as here we have to describe or notice only 
+eleven species, I have thought it more convenient to drop the sections, and in their place 
+add a few words to each of the diagnostic characters. The genus is quite distinct from 
+all the other genera of Sessile Cirripedes, with the exception of the sub-genus Acasta, 
+from which its separation, it must be confessed, is in one sense artificial; for the 
+species of this sub-genus graduate into those of Balanus (such as B. caJceolm and its allies), 
+which have their shells elongated in the rostro-carinal axis, and which live attached to 
+Gorgoniffi. These latter species have been generically separated by some authors from 
+true Balanus ; but I have found it impossible to effect this ; and even the section of the 
+genus, including these species, is hardly distinct enough from the adjoining sections. 
+On the other hand, the sub-genus Acasta, in another sense, is a very natural one, inas- 
+much as all its species are closely allied together in essential structure, in general 
+appearance, and in habit ; and as the genus Balanus is already large, I have thought 
+it best to adopt Acasta, which has been already admitted by many authors as a sub-genus. 
+I need only further remark, that from reasons already assigned, I have thought it useless 
+to give in this work long generie descriptions. 
+
+
+
+1. Balanus tintinnabulcm. Tab. I, fig. \a — \d. 
+
+Lefas tintinnabclcm. Linn. Syst. Naturae, 1/67. 
+
+— — Elli*. Phil. Transact , vol. 50, 1758, Tab. 34, 6gs. 8 and 9. 
+
+— — Chemnitz. Nenes. Syst. Conch., 8 B. (1785), Tab. 97, 
+
+6gs. 828-831. 
+
+Balanus TULIFA. Brugviire. Encyclop. Meth., 1789; sed non B. tulipa alba, in 
+Chemnitz ; nec non B. inlipa, O. F. Muller, Zoolog. Dan. ; nec 
+non B. tulipa, Poll, Test, at Sicilise. 
+
+— — G. B. Sowerby. Genera of Recent and Fossil Shells, Tab. Genus 
+
+Balanus. 
+
+Lefas ceisfata (oar.) SehrUer. Einleitung Conch., vol. iii. Tab. 9, fig. 21. 
+
+— SFINOSA (oar.) Gmelin. Linn. Syst. Nat. 
+
+— TINTINNABULUM, SFINOSA, CBisFATA ET FORCATA. W. TFood. General Con- 
+
+chology, 1815, PI. 6, figs. 1, 2. PI. 7, figs. 4, 5. PI. 8, figs. 1—5. 
+Balancs tintinnabclcm. Chenu. Illust. Conch. 
+
+— s’Orbionii (oar.) Chenu. Illust. Conch., Tab. 6, fig. 10, sed non Tab. 4, 
+
+fig. 13. 
+
+— crasscs. Souierby (1) Min. Conch., 1818, Tab. 84. 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+14 
+
+
+
+FOSSIL CIRRIPEDIA. 
+
+
+
+B.parietibm et 6asi et radiis ports perforatis ; testa a rosed ad atro-purpuream variante, 
+sape longitudinaliter virgatd et costata; orificio plerumque integro, interdum dentato. Scuti 
+cristd articttlari latd et rejlexd. Tergi margine hasali plerumque in contrariis calcaris 
+partihus rectum lineam formants. 
+
+Walls, basis, and radii permeated by pores; shell varying from pink to blackish 
+purple, often striped and ribbed longitudinally; orifice generally entire, sometimes toothed. 
+Scutum with the articular ridge broad and reflexed. Tergum with the basal margin 
+generally forming a straight line on opposite sides of the spur. 
+
+FotM in the Red Crag (Sutton). Mus. S. Wood, J. de C. Sowerby. Tonraine (?) Mua. Lyell. 
+
+Recent, on Weat Coaat of Africa ; Madeira ; West Indiea ; Cape of Good Hope ; Mouth of the ludua ; 
+Eaat Indian Archipelago ; Sydney, Australia ; Peru ; Galapagos Islands ; West Mexico ; California. 
+
+Of this species I have seen several specimens, and fragments. Three of these are the 
+original specimens figured in the Mineral Ck>nchology, as B. crassus, an examination of 
+which I owe to the great kindness of Mr. .1. de C. Sowerby. Some specimens equally or 
+more perfect are in Mr. S. AVood’s collection. I have further seen a specimen from 
+Touraine, which was presented to Sir C. Lyell by M. Dujardin, under the name of 
+B. fasciatus, which I fully believe to be B. tintinnabidum. None of these specimens had 
+opercular valves, and therefore it is perhaps rash to assert quite positively that they are 
+identical with B. tintinnabulum ; but, extraordinarily variable as this latter species is, yet, 
+after having examined so many hundreds of recent specimens from all quarters of the 
+globe, a sort of instinctive knowledge of general aspect is acquired, which makes me feel 
+convinced that the fossils in question do really belong to this species. Moreover, the 
+large shell, with its trigonal orifice passing into rhomboidal,— the smooth, broad, finely 
+
+porose radii, with their summits not oblique, — the rather large parietal pores, 
+
+and the cancellated basis, are characters which hardly concur in any other species ; and 
+those with which these fossils might be confounded, are inhabitants of distant quarters of the 
+world. Most of the recent varieties of B. tintinnabulum, and all the fossil specimens from 
+the Crag, can be at once discriminated from B. tulipifomiis (with which, at least in the 
+Mediterranean deposits, it is likely to be confounded) by the summits of the radii extending 
+from tip to tip of the adjoining compartments, and therefore not being oblique, as is 
+always the case with the radii of B. tulipiformis. The largest fossil specimen which I have 
+seen is nearly two inches in basal diameter, and nearly the same in height, and therefore 
+about two thirds of the size of the largest living specimens. 
+
+I have had engraved, from recent specimens, an internal view of the scutum and tergum, 
+as these are likely hereafter to be found by searchers in the Crag deposits ; and I may 
+refer to my Monograph on the Balanidae for their full description. It may be observed in 
+the habitats given of the living specimens, that Madeira is the nearest point where the 
+species now lives and propagates ; but specimens in full vigour are often brought to the 
+British shores, attached to the bottoms of vessels. 
+
+
+
+BALANUS. 
+
+
+
+15 
+
+
+
+2. Balanus calceolus,* Tab. I, fig. 2a — 2rf. 
+
+Balanus calceolus kkbatophtto intoldtus (?) EUu. Phil. Trans., vol. 50 (1758), 
+Tab. 34, fig. 19. 
+
+Lepas calceolus (?) Pallat. Blench. Zooph., p. 198, (sine descript.) (1766). 
+
+CoNOPEA OVATA (?) J. E. Gray. Annals of Philosophy, vol. 10, 1825. 
+
+5. testts axe rostro-carinali elongato ; bast cgmbiformi ; parietibua et basi, ted non 
+radiis, porit perforatit. Scuto musculi depretsoris laieralis fottd pared, profundd. 
+
+Shell with its rostro-carinal axis much elongated ; basis boat-shaped ; walls and basis 
+porose, but not the radii. Scutum with the pit for the lateral depressor muscle small 
+and deep. 
+
+Fottil in Coralline Crag, attached to a Gorgonia ; Sutton ; Mus. S. Wood. 
+
+Reemt, attached to Gorgonise, West Coast of Africa. Tubicoreen, near Madras. Mediterranean (?). 
+
+I have seen only a single fossil specimen of this species, nearly half an inch in length. The 
+shell was perfect, and a small portion of the Gorgonia yet remained attached to the grooved 
+and boat-shaped basis. The opercular valves had been lost, but the shell in this instance 
+is so peculiar, that it could only be confounded with the recent B. galeatut, cgmbiformit, 
+or navicula, and from all these it is easily distinguished by the parietes being permeated 
+by pores. It is, of course, possible, that the opercular valves might present some new 
+character, showing that this fossil, though agreeing with Bal. calceolut in its shell, yet 
+was specifically distinct. I have given a draw'ing of the opercular valves from recent 
+specimens, which have been fully described in my Monograph on the Balanidae. In 
+regard to the shell, the fossil specimen could not be distinguished from the recent; and 
+as it had to be broken, in order that its internal structure might be examined, I have 
+thought it best to give a drawing from a perfect recent specimen. The spur of the 
+tergum, in recent specimens, sometimes presents a singular character, in being irregularly 
+toothed, and I have given a drawing (fig. 2d) of this variety, as it might perplex a collector. 
+
+• With reapect to the nomenclature of this and three allied recent apeciea, 1 muat remark that in the 
+published descriptions no allusion is made to any one of the characters by which alone they can be 
+distinguished: hence I have been guided by geographical probabilities in assigning the specific name of 
+calceolut to the present species, as Ellis’s specimens came from the Mediterranean ; and that of galeatut to 
+the North American and West Indian specimens, as Linneeus’ original specimens (according to a statement 
+by Spengler) came from the 'West Indies. I have assigned new names to the two remaining East Indian 
+species. 
+
+
+
+16 
+
+
+
+FOSSIL CIRRIPEDIA. 
+
+
+
+3. Balancs sponoicola. Tab. I, fig. 3a — 3e. 
+
+Balanus sponoicola. Broton’t Illustratiom of the Conchology of Great Britain (1827), 
+pi. 7, fig. 6 : 2d edit. (1844), pi. 63, figs. 14—16. 
+
+B. farietihus et bast, sed non radm poris perforatis ; parietibtta plerumque lavibus, 
+roseis ; orijicio dentato ; acuto longitudinaliter atriato ; tergum, apice producto, aine aulco 
+longititdinali, calcare truncato, j valves latitudine. 
+
+Parietes and basis, but not the radii, permeated by pores ; parietes generally smooth ; 
+shell pink ; orifice toothed ; scutum longitudinally striated ; tergum, with the apex pro- 
+duced, without a longitudinal furrow ; spur truncated, about one third of width of valve. 
+
+Fotril in Coralline Crag ; Sutton ; Mua. S. Wood. 
+
+Recent on the South coast of England, and Tenby in South Wales ; Algiers ; Madeira ; Lagulhas Bank, 
+Cape of Good Hope. 
+
+I have seen only a single specimen of this species, which 1 picked out of a mass of 
+specimens of the extinct Bal. incluaua, collected by Mr. Wood, in the Coralline Crag at 
+Sutton. This one specimen was perfect, and included the opercular valves; it even 
+partially retained its rosy colour : it was -3 of an inch in basal diameter, and therefore 
+exactly half the size of the largest recent specimen which I have seen. It was in every 
+respect perfectly characterised. I have given drawings, external and internal, of the 
+scutum and tergum from the fossil specimens. In the- scutum, the adductor ridge is, 
+perhaps, rather more prominent, and the pit for the lateral depressor muscle rather deeper 
+than in recent specimens ; but these points are extremely variable. The tergum, in its 
+outline, strictly agrees with the European recent specimens, and not with those varieties 
+from the Cape of Good Hope and West Indies ; indeed, in the degree in which the basal 
+margin on the carinal side of the spur slopes towards the spur, it even, perhaps, exceeds 
+the European variety. These valves are fully described in niy Monograph on the Balanidm. 
+From the shell alone, as viewed externally, Bal. apongicola, even in its recent state, can 
+hardly be distinguished from Bal. tulipiformia, or from some varieties of Bal. Capenaia .- 
+I doubt whether this species could anyhow be distinguished in its fossil condition from the 
+young of the fossil Bal. concavua, without the aid of the opercular valves. But in order 
+to give an idea of its general appearance, and as I was compelled to disarticulate the com- 
+partments of the one fossil shell, I have had a fine recent specimen from the Mediterranean 
+engraved on an enlarged scale. 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+BALANUS. 
+
+
+
+17 
+
+
+
+4. Balanus coNCAvrs, Tab, I, fig. 4a — \p. 
+
+Balanu8 concatcs. Bronn. Italiens Tertiar-Gebilde (1831) et Letbeea Geognoatica, 
+b. ii, B.l 155 (1838), Tab. 36, fig. 12.> 
+
+— cn,lND*ACEVS, tar. c. Lamarck. Animaux sana Vertbbrea (1818). 
+
+Lepas tintinnabuliim. Broeeki. Concbologia Snb-Appen., t. ii, p. 597, (1814). 
+
+B.parietibtts et basi, sed non radiiaporit perforatis ; testa albo cum roseo aut obscure 
+purpureo longitudinaliter pictd, interdum pure alba. Scuto longitudinaliter tenuiter striato : 
+interne, adductoris crista admodum aut modice prominente. 
+
+Parietes and basis, but not the radii, permeated by pores ; shell longitudinally striped 
+with white and pink, or dull purple ; sometimes wholly white ; scutum finely striated lon- 
+gitudinally ; internally, adductor ridge very or moderately prominent. 
+
+Fouil in Coralline Crag, (Ramabolt and Sudboume) rarely in the Red Crag (Sntton) ; Mna. 
+
+5. Wood, Bowerbank, Lyell, J. de C. Sowerby, Tennant. Sub-Appenine formationa, near Turin, Aati, and 
+Colie in Tuacany, Mua. Greenougb, &c. Tertiary bed, near Liabon, Mua. D. Sharpe and Smith. Bordeaux (?) 
+Mua. Lyell. Tertiary beda, Williamaburg ; and Erergreen, Vii^nia, Mua. Lyell. Maryland, Mua. Krantz. 
+Pleiocene formationa’ near Callao, Peru, Mna. Darwin. 
+
+Recent at Panama; Peru ; 8. Pedro, California; Philippine Arch. ; Auatralia. 
+
+This species has caused me much trouble. It will be convenient first to make a few 
+remarks on the recent specimens ; I examined several from Panama and California, which, 
+though difiering greatly in colour, resembled each other in their scuta haviug the adductor 
+ridge extremely prominent, and in having (Tab. I, fig. 4«) an almost tubular cavity for 
+the attachment of the lateral depressor muscle, — characters which at first appeared of high 
+specific value ; but I soon found other specimens from Panama in which these peculiarities 
+were barely developed. I then examined a single specimen from the Philippine Archi- 
+pelago, resembling in external appearance one of the Panama varieties, but differing in the 
+scuta being externally strongly denticulated in lines instead of being merely striated, — in 
+the adductor ridge being far less prominent, — and in the spur of the tergum being broader 
+and more truncated ; I therefore considered this as a distinct species. I then examined a 
+single white nigged specimen from the coast of Peru, which differed from the Philippine 
+specimen in the shape of the well-defined denticulations on the scuta, and in some other 
+trifling respects, and in the segments of the posterior cirri bearing a greater number of 
+spines; with considerable doubt, 1 also named this as distinct. But when I came to 
+
+• I auapect that B. piulularit, miter, and eonariut, aU figured by Munater, in hia ‘ Beiurage,’ b. iii. 
+Tab. 6, may be tbia apeciea. 
+
+* I procured thia apecimen from the laland of 8. Lorenzo, off Callao ; it waa imbedded, together with 
+seventeen apeciea of recent shells and with human remains, at the height of eighty-five feet. 
+
+
+
+18 
+
+
+
+FOSSIL CIRRIPEDIA. 
+
+
+
+examine a large series of fossil specimens from the Coralline Crag of England, and others from 
+northern Italy, from Portugal, and from the southern United States, I at once discovered 
+that the form of the denticuli on the striae of the scuta was quite a worthless character,— that 
+in young specimens the scuta were simply striated, — that the prominence of the adductor 
+scutorum ridge and the depth of the cavity for the lateral depressor muscle varied much 
+(as in the case of the recent specimens), owing apparently to the varying thickness of the 
+valve, — that in the terga the spmr varied considerably in length and breadth, the latter 
+character being in part determined by the varying extent to which the edges of the longi- 
+tudinal furrow are folded in, — and lastly, that in young specimens the basal end of the 
+spur is much more abruptly truncated than in the old. Hence I was led to throw the 
+three recent forms, originally considered by me as specifically distinct, into one species ; 
+but I may repeat that this considerable variation in the prominence of the adductor ridge, 
+and in the depth of the pit for the lateral depressor muscle — the pit in some cases 
+becoming even tubular — is a very unusual circumstance. 
+
+With respect to the fossil specimens from the above stated distant localities, I consider 
+them as belonging to one species, though they vary considerably in several points of 
+structure. When compared with the recent specimens, they difler from them in often 
+attaining a considerably larger size; in the parietes being generally longitudinally ribbed, 
+as in the case of the Coralline Crag specimen (Tab. I, fig. 4a), and in the radii often having 
+more oblique summits. Some of the specimens from the United States, have strong 
+rugged, depressed shells, frequently resembling, to a curious degree, Bal. porcatua. On 
+the other hand, considering the many points of identity between the fossil and the recent 
+specimens, I have concluded, without much doubt, that they ought all to bo classed 
+together. In the Coralline Crag specimens, the spur of the tergum (Tab. I, fig. 4p) is 
+unusually long and narrow ; it is broader in the Italian specimens (4o), and either short 
+(4^) or long in the United States specimens. The scuta of the Lisbon specimens are 
+remarkable for the great prominenee of the adductor ridge, and for the depth of the lateral 
+depressor cavity, as in most, but not in all, of the Panama specimens. The opercular valves, 
+however, of some of the specimens from all these several distant localities are identical 
+with the recent ones from the coast of America. I have entered into the above parti- 
+culars, on account of, in the first place, its offering an excellent example how hopeless 
+it is in most eases to make out the species of this diffieult genus without a large series 
+of specimens ; secondly, ns showing how the characters alter with age ; and thirdly, as a 
+good instance of the amount of variation which seems especially to occur in most of the 
+species which have very extensive ranges. 
+
+Some of the pink-strijjed Panama varieties, though having a somewhat different aspect, 
+can be distinguished from certain varieties of B. amphitrite only by their scuta being lon- 
+gitudinally striated, — a character in this species variable in degree, and in most cases of 
+very little value. Some of the other recent varieties, however, are sufficiently distinct from 
+B. amphitrite ; and the great fossil Coralline Crag specimens, which stand at the opposite 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+BALANUS. 
+
+
+
+19 
+
+
+
+end of the series of varieties, with their ribbed walls, very oblique radii, and coarsely 
+striated scuta, are extremely unlike B. amphitrite. 
+
+With respect to the nomenclature of the present species, I have little doubt that I 
+have properly identified the Italian fossil specimens with B. concavus of Bronn, who has 
+given a very good figure of this species in his ‘Lethaea Geognostica but it must 
+be confessed that the longitudinal stria? on the scuta are not there represented. Consi- 
+dering the large size and frequency of this species in Europe and in the United States, it 
+has probably received several other names besides the two synonyms, quoted at 
+the head of this description. I should add that the true B. cylindraeem (not var. c) of 
+Lamarck, according to the plate given by Chenu in his ‘Illust. Conch.’ is the B. pHttacus 
+of South America. I have seen in collections specimens of B. concavia labelled as 
+B. tulipa of Poll {B. tulipiformia of my Monograph), — a very natural mistake, without 
+the opercular valves be carefully examined. 
+
+General Appearance. — Shell conical (fig. 4a), often steeply conical (fig. 4c), but 
+sometimes depressed and smooth (fig. 4cf) ; orifice generally rather small, varying from 
+rhomboidal to trigonal, with the radii narrow, and generally in the fossil specimens very 
+oblique ; surface generally smooth, sometimes rugged, and in the Coralline Crag specimens 
+commonly ribbed longitudinally, the ribs being narrow. ItJ the recent specimens the colour 
+is various, either dull reddish-purple with narrow nearly white, or wider dark longitudinal 
+bands ; or, again, ])ale rosy-pink with broad white bands ; or lastly, wholly white. The 
+radii are either darker or paler than the parietes. The opercular valves are either dark 
+purple or nearly white. Pale [>ink and white stripes are visible on some of the Italian and 
+Portuguese tertiary specimens ; and in most of the fossils the sheath is tinged dull red. 
+
+Bimenaiona. — The largest actually recent specimen which I have seen, from the 
+Philippine Archipelago, had a basal diameter of 1-2 of an inch ; the Peruvian pleistocene 
+specimen is P7 in diameter; specimens from the crag and from the Italian deposits, how. 
+ever, sometimes slightly exceed two inches in basal diameter, and three in height. 
+
+Scuta: these in young and moderately-sized specimens are striated longitudinally 
+(fig. 4/), sometimes faintly, but generally plainly, causing the lines of growth to be beaded ; 
+but in large and half-grown specimens, the lines of growth are often extremely prominent, 
+and being intersected by the radiating striae, are converted into little teeth or denticuli. As 
+the striae often run in pairs, the little teeth frequently stand in pairs, or broader teeth have 
+a little notch on their summits, bearing a minute tuft of spines. In very old and large 
+specimens, the prominent lines of growth are generally simply intersected by deep and narrow 
+radiating striae (tab. I, fig. 4j»). In one case, a single zone of growth in one valve w'as quite 
+smooth, whilst the zones above and below were denticulated. The valve varies in thickness, 
+which I think influences the prominence of the lines of growth and the depth of the striae. 
+These striae often affect the internal surface (fig. 4/r) of the basal margin, making it bluntly 
+toothed. The articular ridge (fig. 4«), is rather small, and moderately reflexed. The adductor 
+ridge (as already stated) varies remarkably ; in most of the recent Panama specimens (fig. 4»), 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+20 
+
+
+
+FOSSIL CIRRIPEDIA. 
+
+
+
+and in the fossils from Portugal, it is extremely prominent, and extends down to near the basal 
+margin ; in other specimens it is but slightly prominent, as in those from the Crag (4/') ; 
+it is short, but rather prominent in the specimens (4/<) from Maryland ; whereas it is very 
+slightly prominent in the specimens from Virginia. The cavity for the lateral depressor, 
+also, varies greatly ; it is often, as in the recent specimens, bounded on the side towards the 
+occludent margin by a very slight straight ridge, which occasionally folds a little over, 
+making almost a tube ; this, at first, I thought an excellent specific character, but far from 
+this being the case, the cavity often becomes, in recent specimens as well as in the crag 
+specimens (4/), wide, quite open, and shallow. The whole valve in the Crag specimens 
+(fig. 4e) is apt to be more elongated than in the recent or Portuguese specimens (fig. 4/), 
+and especially than in the Maryland (fig. 4^) specimens. 
+
+Terga very slightly beaked; the surface towards the carinal end of the valve, in 
+some of the fossil specimens, is feebly striated longitudinally. There is cither a slight 
+depression (fig. 4A), or more commonly a deep longitudinal furrow (fig. 4y, 4o) with 
+the edges folded in and touching each other, extending down the valve to the spur, and 
+causing the latter to vary in w'idth relatively to its length. When the furrow is closed in, 
+the spur is about one fourth of the entire width of the valve, and has its low'er end 
+obliquely rounded, and stands at about its own wddth from the basi-scutal angle : when 
+there is only a slight depression and no furrow (as is always the case with young specimens, 
+and in the specimens (4^) from Maryland), the spur is broader, equalling one third of the 
+width of the valve, witli its lower end almost truncated, and standing at about half its own 
+width from the basi-scutal angle. But the absolute length of the spur, also, varies consider- 
+ably in the Coralline Crag specimens ; it is often very long, (fig. ^g) compared to the whole 
+valve. In many Italian specimens (4o) it is long and broad. The basal margin of the 
+valve on the carinal aide of the spur is sometimes slightly hollowed out ; and when the longi- 
+tudinal furrow is closed, this side slopes considerably towards the spur. Internally, the 
+articular ridge and the crests for the tergal depressor muscles are moderately prominent. 
+
+Parietea, the longitudinal septa sometimes stand near each other, making the parietal 
+pores small. The radii have oblique summits, but to a variable degree ; their septa are 
+unusually fine, and are denticulated on their lower sides ; the interspaces are filled up 
+solidly. The ala have their summits very oblique, with their sutural edges nearly or 
+quite smooth. In most of the fossil specimens (Tab. I, fig. 4i, r), and slightly in some of the 
+recent specimens, the surface of the sheath presents an unusual character, in a narrow, lon- 
+gitudinal, slightly raised border, running along the sutures, on the rostral side of each suture. 
+
+Basis thin, porose ; sometimes with an underlaying cancellated layer. 
+
+All the recent specimens which I have seen, were, wdth one exception, attached to 
+various shells and crabs, and to each other. The tertiary specimens are often congregated 
+together into great masses. Including the recent and fossil specimens, this species encircles 
+the globe. During the miocene period it seems to have been the commonest existing 
+Sessile Cirripede ; now, it docs not appear to be common, excepting, perhaps, at Panama. 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+BALANUS. 
+
+
+
+21 
+
+
+
+5. Balanus porcatus. Tab. I, fig. 5a — 5y. 
+
+Balanus porcatos. Emanuel da Cotta. Hi»t. Nat. Teat. Brit., p. 249, (1778). 
+
+Lefas BALANca. iin«. Syst. Naturae, (1767). 
+
+— — Bom. Testacea Mua. Caea. Deac., Tab. I, fig. 4, (1780). 
+
+— — Chemnitz. Syat. Conch., 8 Band., Tab. 97, 6g. 820, (1785). 
+
+BALANUa ABCTlCA PATE1X1FORMI8. EUit. PhiloBoph. Tranaact., vol. 50, Tab. 34, 
+
+flg. 18, (1758). 
+
+— acLCATUa. Bruguiire. Encyclop. method.. Tab. 164, 6g. 1, (1789). 
+
+Lepa8 coaTATA and Balance. Donovan. Britiah Sheila, 1802-1804, Tab. 30, fig. 1, 2. 
+
+Lepa8 Scotica. if. Wood. General Concbology, PI. 6, fig. 3, aed non Lepat balanut, 
+
+PI. 7, fig. 3, (1815). 
+
+Balanus anoclobcs. Lamarck (1818), in Chenu, lUuat. Conch., Tab. 11, fig. 11. 
+
+— TES8ELATUS. Sowerby (I) Mineral Concbology, Tab. 84, (1818). 
+
+— ScoTicua. Brown. Illoat. Conch. Great Britain, PI. 7, fig. 2, aed non 
+PI. 6, fig. 9 et 10 (1827) : 2d edit., PI. 53, fig. 1-3, 22, 23 et 
+PI. 54, fig. 1-3. 
+
+— GENiccLATca. Conrad. Journal Acad. Philadelphia, yol. ri, part 2, p. 265 
+(1830), Tab. 11, fig. 16. 
+
+— — Aug. Gould Q) Report on the Invertebrata of Masaachuasetta, 
+
+fig. 9 (1841). 
+
+B. parietibus, sed non basi, poria perforatia ; teatd alba, plerumque longitudinaliter 
+acute' coatatd ; radiorum marpinibua auperioribua pane baai parcdlelia: acuto longitudincditer 
+atriato ; tergi apice producto, purpureo. 
+
+Parietes, but not the basis, permeated by pores ; shell white, generally sharply ribbed 
+longitudinally ; radii with their summits almost parallel to the basis. . Scutum longitudi- 
+nally striated ; tergum with the ape.\ produced and purple. 
+
+Fouil in the Glacial depoaita of Scotland (lale of Bute), of Uddevalla, and (Beaufort) Canada. In the 
+Mammaliferoua Crag (Bremerton, Thorpe) and Red Crag (Sutton): Mua. Lyell, J.deC. Sowerby, S. Wood, 
+Bowerbauk, &c. 
+
+Recent, England, Ireland, Scotland, Shetland lalanda, Iceland, Daria’a Straits, 66° SO* N. ; Lancaster 
+Sound, 74° 48' N. Maine and MassachusaetU, United States. China (?) In deep water, commonly 
+adherent on shells, Crustacea, and rocks. 
+
+This species can be at once distinguished from all the foregoing by the basis being 
+solid or not perforated by pores ; and from all the following species, with the exception of 
+B. crenatua, by the parietes having large square pores or tubes. From B. crenatua, this 
+species can be distinguished by its longitudinally striated scuta, purple-beaked terga, and 
+by the peculiar structure, immediately to be described, of its parietal pores ; and in most 
+cases even by its general aspect, larger size, and ribbed walls. When, however, 
+B. porcatua and crenatua have grown together on the same irregular surface, for instance, 
+on a Pecten, they sometimes resemble each other in a very deceptive manner. The 
+opercular valves have not certainly been found fossil, but I have given drawings from recent 
+specimens. 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+22 
+
+
+
+FOSSIL CIRRIPEDIA. 
+
+
+
+The parietes, (the basal margin of a small portion is represented at Tab. I, fig. 5i,) are per- 
+forated by large square longitudinal tubes : in the upper part these are filled up solidly without 
+transverse septa ; the longitudinal septa between the tubes are finely denticulated at their 
+bases, and the denticuli extend unusually close to the outer lamina. In very young speci- 
+mens the inner lamina of the parietes is ribbed, in lines corresponding with the longitudinal 
+septa, as in the case of other species of the genus; but in medium and large-sized 
+specimens, there are between such ribs from one to four smaller ribs, which do not 
+correspond with any longitudinal septa ; these are finely denticulated at their bases, and 
+may be considered as the representatives of longitudinal septa which have not been 
+developed and reached the outer lamina. I have seen no other instance of this structure, 
+namely, the presence of a greater number of ribs on the inner (upper in fig. 64) lamina of 
+the walls than there are longitudinal septa. As the parietes rest on the basis, the cir- 
+cumference of the latter becomes marked in a very peculiar manner (fig. 5c), by the basal 
+edges of the parietal septa. Hence the basis of this species can be distinguished from that 
+of every other sessile cirripede -. its circumference is plainly impressed by the main parietal 
+septa which connect the inner and outer laminae of the w’alls ; and between these marks 
+there are two or three smaller impressions of the so-called representative septa, which do 
+not extend beyond the impression of the basal edge of the inner lamina. The upper sur- 
+face of the middle part of the basis (more especially when slightly disintegrated) is faintly 
+striated in radiating lines, of which the stronger lines are prolonged from the circumferential 
+marks left by the main parietal septa, and the weaker lines from the marks left by the 
+representative septa. 
+
+Dimensions . — The largest recent specimens which I have seen from gi'eat Britain or 
+Ireland, have been 1’3 of an inch in basal diameter: in Mr. Cuming’s collection, however, 
+there is one much depressed specimen from the Shetland Islands, 2'1 in basal diameter ; 
+a regularly conical specimen from the coast of Massachussetts attains a nearly equal 
+diameter. But out of the glacial deposits in the Isle of Bute, several specimens 
+have this same diameter, namely, two inches, and are even more steeply conical, being 
+1'86 in height; some glacial specimens from Uddevalla and Canada, in Sir C. Lyell’s 
+collection, are I ‘7 in basal diameter. Hence it appears, as we shall presently see is 
+likewise the case with B. crenatus and Hameri, that northern specimens, and those from 
+the United States and from the Glacial deposits, often exceed in dimensions those now 
+living on the coasts of Great Britain and Ireland, or those found in the Crag. 
+
+This species is very common in the glacial deposits of Uddevalla, of Skien in Norway, 
+and of Canada, and is associated with the same species, namely, B. crenatus and Hameri, 
+as in the living state : I have seen, also, as just stated, specimens from the same formation 
+in the Island of Bute, Scotland. I have examined numerous specimens from the Mara- 
+malifcrous Crag, and a few from the Red Crag of England. I owe to the kindness of 
+Mr. J. de C. Sowerby an inspection of the original specimens of B. tesselatus of the 
+Mineral Conchology, which is certainly the present species. 
+
+
+
+© The Comclete Work of Charles Darwin Online 
+
+
+
+BALANUS. 
+
+
+
+23 
+
+
+
+6. Balanus crenatus. Tab. I, fig. 6a — 6y. 
+
+B. CBENATDS. BruguUrc. Encyclop. Method, (dee Ver») 1789. 
+
+Lepas pouacba, var. a. Spengler. Skrifter af Naturhist. SeUkabet, b. i, 1790. 
+
+— BOREALIS. Donovan. British Shells, PI. 163, (1802-1804). 
+
+B. Ruaosus. Pultenep (?) Catalogue of Shells of Dorsetshire, 1 799. 
+
+— Montagu (!) Test. Brit., 1803. 
+
+— Gould (!) Report on Inrertebrata of Massachussetts (1841), fig. 10. 
+
+B. DLAClALis (?) J.E.Gray. Suppl. Parry’s Voyage, 1819. 
+
+B. ELONOATUS (1) CLAVATUs (I), auctorum variorum. 
+
+B. parietihus, aed non boat poria perforatis ; teatdalbd; radiorum marginibua auperi- 
+oribua obliquia, aaperia, rectia ; acuto aine adductoria criatd; tergi calcare rotundato. 
+
+Parietes but not basis permeated by pores; shell white; radii with their oblique 
+summits rough and straight ; scutum without an adductor ridge ; tergum with the spur 
+rounded. 
+
+Fottil in glacial deposits of Scandinavia and Canada, Mus. Lyell; in the mammaliferons and Red 
+(Sntton) and Coralline Crags ; Mus. S. Wood, J. de C. Sowerby, Bowerbank, &c. Miocene formation, 
+Germany, Mus. Krantz. 
+
+Recent in Great Britain, Scandinavia, Arctic Regions as far as Lancaster Sound, in 74° 48' N. ; 
+Behring's Straits ; United States ; Mediterranean ; West Indies ; Cape of Good Hope. GeneraUy attached 
+to shells and Crustacea in deep water. 
+
+Under the last species I have shown that the porose parietes, but solid basis, distin- 
+guish this species easily from all the others, with the exception of B, porcatua, from 
+which it can readily be known by the characters of its opercular valves, as already there- 
+under stated. Judging by external appearances alone, which ought never to be trusted to 
+in the identification of any sessile cirripede, this species might easily be confounded with 
+Bal. doloaua, found fossil in the same deposits. 
+
+This species presents a great diversity of external aspect : I have had figured (Tab. I, 
+fig. 6a) one of the commonest appearances presented by it ; but frequently the shell is 
+quite smooth and depressed, or extremely much elongated and cylindrical, or even club- 
+shaped. The baaia is generally thin and slightly furrowed in lines radiating from the 
+centre, but it is not permeated by pores ; when, however, in large and old specimens it 
+becomes thicker, as in Tab. I, fig. 6c, its edge is very distinctly pitted by little hollows, 
+which might sometimes be easily mistaken for the orifices of pores : the absence of pores 
+is a very important character in the diagnosis of B. crenatua. The basis ijs less firmly 
+attached to the supporting surface than is usual with most cirripedes, and consequently it 
+often separates from it together with the parietes. With regard to the opercular valves 
+(6rf — Q>g) drawn from recent specimens, I need here only state that the most conspicuous 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+1 
+
+
+
+24 FOSSIL CIRRIPEDIA. 
+
+characters are the large articular ridge to the scutum, and the reflexed apices of all four 
+valves, though this latter character is highly variable. I must refer to my Monograph on 
+the Balanidae for a full description of these valves. 
+
+The largest recent British specimen which I have seen was only *55 of an inch in basal 
+diameter : specimens from Greenland and the northern United States, frequently attain a 
+diameter of three-quarters of an inch, and I have seen one single sowewhat distorted 
+specimen actually 1-6 of an inch in basal diameter. Where individuals have grown 
+crowded together, their length is often twice, and even occasionally thrice as great as their 
+diameter; thus I have seen a recent Greenland specimen 1‘6 of an inch in length, and 
+only ’75 in diameter. This species, in its recent state, as may be seen under the 
+habitats, has an enormous range. I have felt myself unwillingly compelled to admit that 
+it ranges from the Arctic Regions in 74° 48' N. to the Mediterranean, the West 
+Indies, and Cape of Good Hope. That this species should live in the tropical seas is the 
+more surprising, as the large size of the specimens in the northern seas and in the glacial 
+deposits, might fairly have been supposed to have indicated special adaptation for a cold 
+climate. This great geographical range, however, of the species aceords with its range in 
+time from the present day to the Coralline Crag period. The specimens from the glacial 
+deposits which I have examined, chiefly in Sir C. Lyell’s collection, are very fine and large, 
+and appear, on an average, to attain as large or larger dimensions than the recent specimens 
+from the United States ; they are often associated, like the now living individuals, with 
+B. porcatm and Ilatneri : they come from the well-known formation of Uddevalla, and 
+from Canada. There are well-characterised specimens in the mammaliferous Crag, at 
+Bramerton and near Norwich, in Sir C. Lyell’s and Mr. Wood’s collections, and from 
+Sutton and other places in the Red Crag of the eastern shores of England : these speci- 
+mens are not only smaller than the glacial, but than the recent English specimens; 
+for the largest Crag specimens which I have seen had a basal diameter -5 of an inch, -3 to '4 
+being their ordinary size. The specimens which I have seen from the Coralline Crag, and 
+some others sent me by Krantz from the miocene formation of Flonheim bei Abzei, in 
+Germany, had not their opercular valves, yet I cannot doubt, considering how few species 
+there are having porose walls and a sohd basis, that I have rightly identified these specimens 
+as belonging to B. crenatua. 
+
+
+
+7. Balancs Hameri, Tab. I, fig. 7a — Id., Tab. II, fig. la, \b. 
+
+Lefas Haheri. Jicaniut. Iconea rerum naturalium. Tab. 10, 1767. 
+
+— TDLIPA. 0. F. Muller. Prodromus. Zoolog. Dan. 1776 ; aed non L. tulipa, in 
+Poll, Teat, ut Siciliae ; necnou B. tulipa, in Bruguiere, Encyclop. 
+method. ; necnon B. tulipa, in Sowerby, Genera of Sheila. 
+
+— TULIPA ALBA. Chemnitz. Syat. Conch., Tab. 98, fig. 832. 
+
+— FOLIACEA. Spengler. Skrirter af Naturhiat. Selakabet, 1 B. 1790. 
+
+
+
+© The ComDiete Work of Charles Darwin Online 
+
+
+
+BALANUS. 
+
+
+
+25 
+
+
+
+BEANOS canoidds. (Tab. emendaU) Brmtm. Conch. Great Britain (1827)> Tab. 6, 
+figs. 9 and 10, and 2d edit. Tab. 54, figs. 9-12. 
+
+— TULIPA. Lyell.' In Phil. Transact., 1835, p. 37, Tab. 2, figs. 34-39. 
+
+B. nee parietibua, nee baai, nee radiis poria perforatia ; teatd albd; radiorum margini- 
+bua auperioribua obliquia, lavibua, arcuatia ; aciebua auturalibua lavibua ; acuto anguato 
+longitudinalUer, debiliter atriato; tergi ccdcare anguato, rotundato. 
+
+Parietes, and basis, and radii not permeated by pores ; shell white ; radii with their 
+oblique summits smooth and arched; sutural edges smooth; scutum narrow, feebly 
+striated longitudinaUy ; tergum with the spur narrow, rounded. 
+
+FotM in Red Crag (Sutton), Mus. 8. Wood Doubtfully in the Glacial beds of Scotland. In the 
+Glacial deposits at Udderalla, in Sweden; and Beaufort, Canada, Mus. Lyell. Banks of the Dwina, 
+Russia, Mus. Murchison. Greenland, "in blue clay,” according to Spengler. 
+
+Ueemt on the Coast of Yorkshire ; Scotland ; Galway, Ireland ; Isle of Man, and Anglesey, twelre 
+fathoms. Generally in deep water ; not Tcry common. George's Bank, Massachussetts, United States. 
+Iceland, Finmark, and the Faroe Island, according to Spengler. AtUched to Crustacea, moUusca, stems of 
+fuci, and stones ; often auociated with B. porcaltu and crenaltu. 
+
+I have seen, in Mr. Wood’s collection, from the Red Crag, fine and perfectly preserved 
+specimens of a rostrum, and of a lateral compartment. The latter was three inches in height, 
+and, including the alae, one inch in width. I have also seen a specimen said doubtfully to 
+have come from the glacial beds of Scotland. As it is so very common in the deposits of 
+this same age in other countries, no doubt it will hereafter be found more plentifully in 
+Scotland, and probably in the mammaliferous Crag of England. Balanua Hameri is a 
+very fine s|)ecies ; I have seen a recent specimen from the coast of Yorkshire, two inches 
+in diameter, and one inch and three-quarters in height : another specimen was three inches 
+in height. The sfiecimens in the glacial deposits, seem to have acquired larger dimen- 
+sions : a compartment from Uddevalla being nearly four inches in height. The white 
+colour, smooth surface, and regularly arched radii, give to the shell a very elegant appear- 
+ance, which has appropriately been compared to that of a white tulip. The diagnosis of 
+this species is easy ; the walls as well as the basis being solid or not porose, serve to dis- 
+tinguish it from all other forms except certain varieties of Bal. unguiformia, and by several 
+minor characters, such as the finely striated and more elongated scuta, &c., Bal. Hameri, 
+can be discriminated from B. unguiformia. 
+
+> Sir C. Lyell remark* tbat tbit U apparently tbe B. Uddevalleiuia, (Linn.), of Swediah liata of foiaiU. 
+Prof. E. Forbe* baa shown (‘Mem. Geolog. Surrey of England,* rol. i, p. 364) how this name arose, from 
+a short description, prior to the introduction of the binomial system, “Lepas quae Balanua Udderallensis,” 
+given by Linnaeus in his Wast-Gotha Resa, in 1747* 
+
+For the reference to Ascanius' work, which is on the binomial system, and subsequent to the 10th 
+edit, of Linnmus in 1758, 1 am greatly indebted to Mr. Sylranus Hanley. Had it not been for this 
+gentleman, I should have used Mailer's name of B. lulipa as the first name. 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+26 
+
+
+
+FOSSIL CIRRIPEDIA. 
+
+
+
+In the recent condition, the compartments of the dead shell fall apart with singular 
+facility; and Sir Charles Lyell has remarked (‘Philosophical Transactions,’ 1835, p. 37) 
+that in the glacial deposits of Scandinavia, the shell is never found whole, but the separated 
+compartments in abundance : it apj>ears, also, that the basis likewise easily separates from 
+its support. The extreme edge of the basis is finely crenated, and not pitted as in Bal. 
+crenatm ; the crenations or teeth are produced by the edge of the basis fitting in between 
+the longitudinal septa on the internal surface of the parietes. There is one peculiarity in 
+the alae of this species in its recent state, which I have observed in no other species, and 
+which can be distinguished in some of the fossil specimens, as in Tab. II, fig. \b , — 
+namely, the presence of an excessively fine linear furrow running along the sutural edge, 
+a little towards the inner side, and filled (in the recent state) with a yellow ligamentous 
+substance. 
+
+In regard to the opercular valves, (Tab. I, fig. la — Id, drawn from recent and glacial 
+specimens,) I need here only mention, that in the acuta, their flatness, elongation, and delicate 
+longitudinal striae, are their chief characteristics. In very old and large specimens of the 
+terga (as in the specimen, fig. Id, figured from Uddcvalla), the basal margin on the carinal 
+side of the spur slopes down towards it in a remarkable manner. 
+
+
+
+8. Balanus bisclcatus. Tab. II, fig. 2a — 2/1. 
+
+Balancs sulcatinds (?) Nyat, apad D'Omaliaa (aine descript, aut tabuIA), G/^ologie 
+de Belgique, IS.'ia.’ 
+
+B. nec parietihua, nec radiia porta petforafia; boat porta magnia perforata; radiorum 
+marginibua auperioribua obliquia, lavibua ; aciebua auturalibua kevibua ; acuto anguato, aulcH 
+longitudinalibua 2 arf 4 ; tergi calcare breviaaimo dimidid valvee latitudine. 
+
+Neither walls nor radii permeated by pores; basis penneated by large pores; radii 
+with their upper margins oblique and smooth ; sutural edges smooth ; scutum narrow, 
+with from two to four longitudinal furrows ; tergum with the spur very short, broad as 
+half the valve. 
+
+Var. plicatus (fig. 2c), with the walla deeply folded; radii narrow, with their upper 
+margina very oblique. 
+
+Fo*$il in Coralline Crag ; Ramsholt, Gedgrare, Sutton ; Mus. S. Wood, Bowerbank, J. de C. Sowerby. 
+Rauville, dans le Cotantin, Mus. G. B. Sowerby. Var. plicatut. Coralline Crag, Sutton, Mus. S. Wood, 
+Bowerbank. Bolderberg, near Hasselt, Belgium, Mus. Bosquet. 
+
+' 1 am indebted to M. Bosquet for a specimen, bearing this name and reference, found in the ‘ SysUme 
+Bolderien’ of Dumont, (miocene according to Sir C. Lyell) at Bolderberg. The specimen consists of a 
+rostrum, with a portion of the base attached ; and as these parts are in some degree characteristic, I fully 
+believe this specimen to be B. bimicattu. 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+BALANUS. 
+
+
+
+27 
+
+
+
+General Appearance. — Shell (fig. 2a) conical or tubulo-conical, often rather globose ; 
+walls frequently thin, either very smooth, or deeply plicated longitudinally : occasionally 
+the same specimen is smooth in the upper part (fig. ’lb'), and strongly plicated in the 
+lower. The radii in the large specimens are wide, and with their upper margins only 
+slightly oblique ; in the smaller they are narrower, and much more oblique ; but in each 
+case their upper margins are smooth and slightly bowed. Colour apparently originally 
+nearly white, but with the alse generally, in the smaller specimens, clouded with a dark 
+tint : the radii are usually striped feebly in longitudinal fines. Basal diameter of largest 
+specimen *8 of an inch ; but this seems to have been an unusual size. 
+
+Scuta : (fig. 2e) narrow, with the basal margin forming an unusually small angle with 
+the occludent margin ; surface slightly convex, with lines of growth approximate, mode- 
+rately prominent ; on the tergal half of the valve, two distinct rather broad furrows, with 
+sometimes a third, and even a fourth, nearer to the occludent margin, extend from the 
+apex down the valve, and give it a very peculiar appearance : the furrows near the tergal 
+margin are the deepest. Internally (fig. 2p), the upper part of the valve is roughened 
+with small points : the articular furrow is unusually wide : the articular ridge is very pro- 
+minent and but little refiexed, with the lower end almost abruptly cut off : the adductor 
+ridge is prominent, but short: there arc small deepish pits for the rostral and lateral 
+depressores. 
+
+Terpa (fig. 2/), broad, flat, with a slight narrow prominent rim along the scutal 
+margin, which margin is slightly bowed. The basal margin on the carinal side of the spur 
+slopes so gradually towards the spur, that the latter is barely distinct, and is very short, not 
+depending nearly half its own width beneath the basi-scutal angle : the spur, also, is broad, 
+namely, measured across the upper part, as broad as half the valve ; its basal end is obliquely 
+rounded ofif on the carinal side ; it is placed close to basi-scutal angle. The carinal margin 
+of the valve is just perceptibly bowed, and is formed by rectangularly upturned fines of 
+growth. Internally (fig. 2h), the upper part of the valve is rough ; the articular ridge is 
+prominent ; the crests for the tergal depressores muscles are moderately well-developed. 
+
+Parietes, not porose ; internally, the ribs are smooth, with their basal edges very finely 
+or barely denticulated. The radii (as already stated) are of variable breadth ; they have 
+their upper margins either very slightly or highly oblique, but always smooth and rounded: 
+their sutural edges are quite smooth, or sometimes, with a strong lens, traces of transverse 
+striae, representing septa, can just be discovered. The alts have their upper margins very 
+oblique ; their sutural edges are, in the large specimens, quite smooth ; in the younger 
+ones, plainly crenated ; the recipient furrow being clearly marked by the teeth. Bueie 
+plainly porose. 
+
+Varieties. — It is certain (fig. 26) that there are longitudinally plicated specimens of 
+this species, and that the obliquity of the upper margins of the radii also varies a little ; 
+nevertheless some of the deeply plicated specimens (fig. 2c) undoubtedly have a very 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+28 
+
+
+
+FOSSIL CIRRIPEDIA. 
+
+
+
+different aspect from the ordinary varieties, and do really differ in the sutural edges of the 
+alse being crenated, and in the greater narrowness and obliquity of the radii ; but these 
+points are all commonly variable. I have not seen any large specimens of the variety 
+(fig. 2c), plicalus, so as to compare them with the large specimens of the normal form, yet 
+I can hardly entertain any doubt, considering their agreement in so many important 
+points, that I have rightly treated these forms as mere varieties ; it is unfortunate that 
+none of the specimens of the var. plicatus seen by me have had opercular valves, as their 
+presence would have removed all shadow of doubt. I have given a drawing, enlarged seven 
+times, of some very young shells (fig. 2<f), adhering in numbers on Pecten Gerardii, which I 
+believe belong to the plicated variety of our present species, but which are much too young 
+to be identified with certainty. 
+
+Affinities: this is a strongly characterised species, and nearly allied only to the 
+following species, if. dolosua. The furrows on the scuta in some degree resemble those on 
+the recent B. lavis, but there is no alliance with that species. It is certain that amongst 
+recent species, the chief affinity is with B. Hameri and amaryllis. 
+
+
+
+9. Balanus dolosus. Tab. II, fig. 3a — 3cf. 
+
+B. nec parietibus, nec radiis poris perforatis ; basi poris tnaynis perforata, radiorum 
+marginibus superioribus obtiguis, lavibus ; aciebus suturalibus item leevibus ; tergi calcare 
+non admodum brevi, I valva latitudine. 
+
+Neither walls nor radii permeated by pores ; basis permeated by large pores ; radii with 
+their upper margins oblique and smooth ; sutural edges smooth ; tergum with the spur not 
+very short, broad as one third of valve. 
+
+Fotsil in Red (Sutton) and Mammaliferoui Crag ; Mus. 8. Wood, Bowerbank, Lyell, i. de C. Sowerby, 
+Menslow, &c. Mammaliferoua Crag, Postwick, near Norwich, Mus. Lyell. 
+
+This species so closely resembles B. bisulcatus, both externally and in all the essential 
+characters of the parietes, radii, and basis, that it is quite superfluous to describe 
+again these parts. The specific characters are derived from the opercular valves, which 
+present well defined distinctions, found by me constant in several specimens of both 
+species. B. dolosus, like B. bisulcatus, has quite smooth and deeply plicated varieties, 
+often adhering to the same univalve. The ribs on the inner surfaces of the parietes are 
+remarkably prominent, as shown iti the drawing (fig. 3o) of the inside of the rostrum. 1 
+think the upper margins of the radii are in this species rather more oblique than in 
+B. bisulcatus. The sutural edges of the radii are marked by the finest striae, representing 
+septa. The sutural edges of the alac are generally distinctly crenated. The basis is often 
+slightly cup-formed, and very plainly porose (fig. Zb) its upper surface is marked by 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+BALANUS. 
+
+
+
+29 
+
+
+
+radiating ridges : the septa between the radiating pores are themselves often in part porose, 
+as was plainly the case in the specimen (fig. 3i) engraved. The orifice of the shell is 
+large and elongated in its rostro-carinal axis, especially in young specimens. The basal 
+diameter of the largest specimen is '4 of an inch. 
+
+The 8cuta (fig. 3c) have no trace of the two or three longitudinal furrows so con- 
+spicuous on these valves in B. bisulcatus, and which, in that species, run down to the basal 
+margin from the apex of the valve, this fact showing that the furrows occur in quite young 
+individuals. The whole valve is not quite so narrow as in B. bisidcaius, but otherwise 
+agrees with it in shape : internally, there is hardly any difference ; but the articular furrow is 
+not quite so wide : the articular ridge is very prominent, and abruptly truncated at its lower 
+end : the adductor ridge is also prominent ; it here runs a little higher up the valve than 
+in B. bisttlcalus. The ierffum (fig. 3rf) differs more in the two species : the spur is not so 
+broad ; measured in its upper part, it is only about one third of the entire width of the 
+valve, instead of being half as wide as the valve : it is considerably longer, depending 
+beneath the basi-scutal angle more than half its own width : the basal margin of the valve 
+on the carinal side, does not slope so gradually into the spur ; the occludent and carinal 
+margins are slightly arched, as in B. bisulcatm. Internally, the surface is rough, the 
+articular ridge is prominent, and the crests for the tergal depressores are well developed, — 
+all as in B. bisdeatus. It is remarkable how generally the opercular valves have been 
+preserved in this species in its fossil condition, as compared with most other species of the 
+genus. 
+
+It is not easy to distinguish, by external characters, the rugged varieties of this species 
+from B. crenatua; indeed, the only difference is that the furrows receiving the edges of the 
+radii, generally, exhibit in B. crenatua slight impressions of the septa, which are entirely 
+absent in B. doloaua. By internal characters, such as the non-porose parietes, and porose 
+basis, our present species widely differs from B. crenatua. 
+
+10. Balanus onguifokmis. Tab. II, fig. 4a — 4/. 
+
+Balands unguipobhis. J. de C. Sowerbt/ (!) Mineral Concholog; (sine descriptione), 
+Tab. 648, fig. 1, (Jan. 1846.) 
+
+— ZBISUA. J. de C. Sowerby (!) Ib., fig. 2. 
+
+— PEBPLZXCS. Nytt, apnd D'Omalias (sine deacript. pel Tab.), Gfologie de la 
+Belgique, 18.53.1 
+
+B. parietibua tenuibua, interdum porta perforatia: radiia aine porta, marginibua m- 
+perioribua obliquia ; aciebua auturalibua tenuiaaime crenatia .- boat aine porta : tergi calcare 
+anguato, obtuao. 
+
+1 I am much indebted to M. Bosquet for specimens bearing this tiUe, from Klein Spauwen, which 
+certainly appear to me, as far as can be judged by the separated compartments, without the opercular valves, 
+to belong to our present species. 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+30 
+
+
+
+FOSSIL CIRRIFEDIA. 
+
+
+
+Parietes thin, sometimes permeated by pores ; radii without pores, with their upper 
+margins oblique ; sutural edges very finely crenated ; basis without pores. Tergum with 
+the spur narrow, bluntly pointed. 
+
+Var. erisma (fig. 4i), with the walk longitudinally folded or ribbed. 
+
+Fouil in the Eocene formations. Isle of Wight, Colwell Bay ; Hordwell ; Barton, (Chama Bed) ; Headon ; 
+Bembridge ; Bergh, near Klein Spauwen, Belgium (?). Attached to various shells and wood. Mus J. de 
+C. Sowerby, E. Forbes, F. Edwards, Charlsworth, T. Wright, Bowerbank, Tennant, Bosquet. 
+
+This species, the most ancient one as yet well known in the genus, presents to the 
+systematist a most unfortunate peculiarity, in the parietes being almost as often as not 
+jtermeated by small pores : I have seen no other instance, except to a limited degree in the 
+recent B. glandule, of this character being variable, and hence it must be still considered 
+of high classificatory value, in so varying a genus as Balanus. Owing to the kindness of 
+Mr. F. Edwards, I have seen the original specimens, excellently figured by Mr. J. de C. 
+Sowerby, in the ‘ Mineral Conchology,’ under the names of B. unguiformis and erisma, 
+between which I can perceive no difference, excepting that the walls in the latter are 
+longitudinally folded,— a character we know to be variable in many species. In both 
+varieties, the parietes are sometimes porose and sometimes solid. The smaller specimens, 
+however, figured in the ‘ Mineral Conchology’ to the right hand of the Plate, may possibly 
+be a distinct species, as I infer from the narrowness of their radii. This species is inti- 
+mately allied to B. varians, a fossil from the ancient tertiary plains of Patagonia. It is also 
+allied to the recent B. crenatus and glandule. 
+
+General appear ance.SheW (fig. 4a), tubulo-conical, sometimes even sub-cylindrical : 
+surface either very smooth, or slightly folded, or deeply folded so as be strongly ribbed 
+longitudinally: orifice rather large, rhomboidal, narrow at the carinal end, toothed, 
+but not deeply : walla rather thin and fragile : radii of moderate width, with their summits 
+oblique, not quite smooth. Basal diameter of largest specimen about three quarters of an 
+inch. 
+
+Scuta (fig. 4c), with the external surface smooth : there is a trace of a furrow running 
+down the valve from the apex, near to the occludent margin, and this is only worth 
+mentioning from the analogous furrows in B. bisculatus. Internally (fig. 4e), the upper 
+surface of the valve is roughened : the articular ridge is very prominent, and slightly 
+reflexed -. there is no distinct adductor ridge ; there is a slight but variable depression for 
+the lateral depressor. Tergum (fig. 4rf), with the longitudinal furrow shallow; spur 
+moderately long, about one fourth or one fifth of the width of the valve ; placed at about 
+its own width from the basi-scutal angle ; basal end bluntly pointed ; the basal margin on 
+the opposite sides of the spur forms a nearly straight line ; the carinal margin has an 
+extremely narrow border formed by upturned lines of growth. Internally (fig. 4 /), the 
+surface is roughened with little points : the articular ridge is prominent : the crests for the 
+tergal depressores moderately prominent. 
+
+
+
+BALANUS. 
+
+
+
+31 
+
+
+
+Parietea : the longitudinal ribs on the internal surface are either feebly, or, in the 
+lower part, strongly developed ; their basal ends are only just perceptibly denticulated. As 
+already stated, in about half the sjwcimens, there were no traces of parietal pores ; in the 
+other half there were either distinct or obscure pores ; the pores are circular, generally of 
+unequal sizes, and never large ; in the same individual they would sometimes be almost 
+wholly absent in some of the compartments, and quite plain in the other compartments. 
+The radii are either moderately wide or rather narrow, and have their upper margins very 
+oblique, and not distinctly arched, and not quite smooth : their sutural edges are very 
+finely crenated, the teeth or septa not being denticulated. The upper margins of the ala 
+are rather less oblique than those of the radii : their sutural edges are barely crenated. 
+The basis is thin, and without any trace of pores ; the upper surface is sometimes furrowed 
+in radiating lines. 
+
+
+
+11. Balanus inclusos. Tab. II, fig. 5a— 5y. 
+
+B. nec parietibus, nec radiis ports perforatis ; basi porta perforata : testa rufo-fused: 
+radiia latis, marginibua auperioribus aut non obliquia aut modice ; aciebua auturalibus cum 
+septia plane denticulatia : acuto sine adductoria crista: tergi calcare aubanguato. 
+
+Neither walls nor radii permeated by pores ; basis porose ; shell reddish-brown ; radii 
+broad, with their upper margins not oblique, or only moderately oblique ; sutural edges 
+with plainly denticulated septa : scutum without an adductor ridge ; tergum with the spur 
+rather narrow. 
+
+Vdr. (a) (fig. 5c, 5d), toith the shell elongated in its roatro-earinal axis ; basis narrow, 
+clasping the stem of a zoophyte -, lateral compartments much broader than the almost linear 
+rostrum, carina, and earino-lateral compartments. 
+
+Far. (i), with rough longitudinally folded walla, and with the summits of the radii forming 
+an angle of about 45° with the basis. 
+
+Fottil in ConOUne Crag ; Sutton and Gedgrave -, attached to foliaceoua Bryozoa ; Mas. S. Wood, 
+Bowerbank. Far. a. Coralline Crag, Sutton, atUched to cylindrical branches of corals ; Mus. S. Wood, 
+Bowerbauk. Far. b, atUebed to shells, Osnabruck, Hanover, Mus. Lyell; Bunde, Westphalia, Mus. 
+Krantz. 
+
+My materials consist of a beautiful series of specimens in Messrs. Wood and Bower- 
+bank’s collections ; but unfortunately only a single young specimen had its opercular valves 
+preserved. Not one specimen of the very eurious variety (a) had opercular valves, yet I 
+eannot feel any doubt about its being only a variety, caused by its attachment to a thin 
+cylindrieal branch of a coral, instead of to a foliaceous Bryozoon ; it will, however, be con- 
+venient to give a separate description of this very remarkable form. With respeet to 
+var. (j), both sets of specimens came to me from the Continent, with the name of 
+
+
+
+© The Complete Work of Charles Darwin Online 
+
+
+
+32 
+
+
+
+FOSSIL CIRRIPEDIA. 
+
+
+
+B. stellaris, of Bronn ; but as Broun distinctly states, that in his species the parietes are 
+porose, and as such is not here the case, this cannot possibly be that species : these 
+specimens did not possess their opercular valves, and therefore cannot be identified with 
+certainty. 
+
+General Appearance. — Shell conical (fig. 6a, bb), with the orifice rather large, and 
+rhomboidal. The surface is very smooth, except in var. (3) from the Continent, in which it 
+is rugged and longitudinally folded. The colour is ochreous-brown (chiefly no doubt 
+derived from the imbedding substance), tinged with red. The radii often have a much 
+darker and more distinct red tint ; they are sometimes longitudinally striped with dirty 
+white. The radii are broad, with their summits straight, and very slightly oblique ; in 
+var. b, however, they slope at an angle of about 45°. Basal diameter of largest specimens 
+'6 of an inch ; but this is an unusual size. 
+
+Scuta, with the growth ridges little prominent. Internally (fig. 6/, from a young 
+individual) the articular ridge is moderately prominent, with its lower end very obliquely 
+rounded off; there is no adductor ridge ; there is a minute pit for the lateral depressor 
+muscle. Terpa, with a slight longitudinal depre.ssion extending down to the spur ; spur 
+short, with its lower end almost square or truncated, about one fourth of width of valve, 
+and placed at about half its own width from the basi-scutal angle. Internally (fig. bp)^ 
+the articular ridge is prominent ; the crests for the tergal depressores are feebly developed. 
+
+Parietes, moderately thick and generally strongly ribbed internally, without parietal 
+pores. Radii, wide, with their upper margins straight, not smooth or rounded, and very 
+slightly (or, in var. b, moderately) oblique ; their sutural edges have well-developed septa, 
+which are denticulated : the interspaces between the septa are filled up solidly. The ala 
+have their upper margins oblique : they are only slightly, and sometimes not at all, added 
+to above the level of the opercular membrane : their sutural edges are smooth. The basis 
+is thin, but plainly porose. 
+
+Var. (a) (fig. be, bd). — With respect to this remarkable variety, any one would at first 
+think it specifically distinct. The shell is much compressed, or elongated in the rostro- 
+carinal axis, sometimes to a great degree; I have seen a specimen -25 of an inch in this 
+axis, and only -1 in its broadest part ; but this is a very unusual degree of elongation. The 
+most remarkable character is the extraordinary narrowness of the carina, of the carino-lateral 
+compartments, and of the rostrum, compared with the great breadth, especially along the 
+basal margin (fig. bd), of the lateral compartments. The radii are of unusual breadth. The 
+tips of the rostrum and of the lateral compartments are a little arched in, tending to make 
+the shell somewhat globular. The true basis is extremely narrow (fig. bd) : it is deeply 
+grooved, from clasping the thin, cylindrical stem of the coral to which it has adhered ; and 
+I have seen specimens in which the opposite edges of the groove had met, a tube having 
+been thus actually formed. From the grooved basis, and from the elongation of the shell 
+in the rostro-carinal axis, this variety presents so close a general resemblance to Balanus 
+calceolus, and its allies, that I have seen it in a collection arranged on the same tablet with 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+ACASTA. 
+
+
+
+33 
+
+
+
+n fossil specimen of B. calceolu$. Notwithstanding the above several strongly-marked 
+characters, by which this variety differs from the ordinary form, there is a resemblance in 
+colour and aspect, which, though difficult to be described, made me from the first suspect 
+that the two were specifically identical. In no point of real structure is there any difference, 
+excepting that, perhaps, the pores in the basis are here rather smaller ; but this might arise 
+from the little development of the peculiar basis. Having come to this conclusion, I was 
+interested by finding a specimen (fig. 5e) in Mr. Wood’s collection, which had originally 
+fixed itself (judging from the form of the basis) on a thick cylindrical stem, but which had sub- 
+sequently grown on to an adjoining flat surface ; consequently, one side of the shell presented 
+all the peculiar characters of the present variety, but not strongly pronounced, whereas the 
+other side, at the rostral end, was undistinguishable from the ordinary form. The unequal 
+development of the rostrum on the two sides was very striking, and clearly showed how 
+great an effect could be produced by the nature of the surface of attachment. 
+
+This singular variety cannot be considered accidental, in the sense in which this term 
+may be applied in some cases : the pupa evidently fixes itself intentionally, in a certain 
+definite position, on the branch of the coral (when a branch is chosen), exactly as in the case 
+oiBalanus calceolus,ox Scapellum mlgare, — species which always live attached to branches. 
+J.lut when other Balani occasionally fix themselves on branched corals, their position seems 
+to be accidental and unsyrnmetrical; thus among the symmetrically elongated specimens of the 
+present species, I found one specimen of Balanus himlcatm, which had evidently been 
+attached in an almost transverse position to a branch, and had thus become much distorted; 
+so, again, I have seen specimens of the recent B. amaryllis attached irregularly to a Gorgonia, 
+in the midst of the symmetrically elongated shells of Balanus navicula, an ally of B. calceolus. 
+
+This variety does not seem to attain so large a size as the ordinary form. 
+
+Affinities. — This sj)ecies is allied to B. unyui/ormis and B. varians, but is perhaps more 
+nearly related to the recent B. allium, an inhabitant of the Barrier Reef of Australia. The 
+longitudinally folded variety (i) can hardly be distinguished by external aspect, or even by 
+the opercular valves, from B. crenatus ; but when the shell is disarticulated, the porose 
+walls and non-porose basis of B. crenatus, allow of no mistake in the diagnosis of the 
+two species. 
+
+
+
+Sub-Genus — Acasta. 
+
+Acasta. leach. Journitl de Phyeique, tom. Izxxv, 1817. 
+
+Valves testa 6 ; parietes et basis non porosa ; basis calcarea, cyatkiformis, non elongata. 
+Valva operculares inter se articulata, subtriangulares. Spongiis, aut rarb Isidis cortici, 
+affixa. 
+
+Compartments six ; parietes and basis non-porose : basis calcareous, cup-formed, not 
+
+5 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+FOSSIL CIRRIPEDIA. 
+
+
+
+elongated, attached to Sponges, or rarely to the bark of Isis ; scutum and tergum articulated 
+together, subtriangular. 
+
+Under the last genus, I have made a few remarks on the close afihnities of this sub-genus 
+to Balanus, and have given my reasons for retaining it, so that I need not here 
+repeat them. 
+
+
+
+Acasta unoulata. Tab. II, fig. 6a — 6/ 
+
+A. testa, ad speciem, ut in “ A. spongites” sed majore : scuto externe striis longiludu 
+nalibua, seepe binis, signato, tulcis intermediis latioribua .- tergi calcare, peene J valvce 
+latitttdine. 
+
+Shell, apparently, as in A. spongites, but larger : scutum marked by longitudinal ridges, 
+often in pairs, with the intermediate furrows rather wide : spur of tergum nearly half as 
+wide as valve. 
+
+FouU in Coralline Crag (Sutton), Mus. S. Wood, Bowerbank. 
+
+I owe to Mr. Wood the inspection of a fine suite of valves, which, though separate, I 
+have no reason to doubt have all been rightly attributed to the same species. Owing to the 
+shell never having been fomid entire, its general shape is not known, and, what is of more 
+consequenee, the relative proportional width of the parietes of the cariuo-lateral compart- 
+ment is unknown. I have (but with doubt) given it a distinct specific name, owing to the 
+peculiar character of the furrows on the scuta, and to the large size of the whole shell. In 
+its other characters it comes nearest to A. spongites, excepting in the spur of the tergum, 
+which resembles that of A. sulcata. 
+
+The external surfaces of the compartments appear generally to have been smooth ; but 
+in several specimens they are studded with the sharp shelly points so common in the 
+genus. A rostrum (Tab. II, fig. Ca), and lateral compartment (fig. 65), have been figured. 
+The radii are not wide. The basis (fig. 6c) is cup-formed : its edge is either quite smooth, 
+or is very finely crenated. The basis is sometimes quite irregularly perforated, as in the case 
+of several recent species, by numerous minute orifices, which, when the animal was 
+alive no doubt were covered by membrane. Internally the parietes are feebly ribbed, as 
+in A. spongites. Judging from the dimensions of the separated valves, this species must 
+have equalled and (Kjrhaps exceeded in size the largest living species, namely, A. glass, from 
+Australia. Hence we may infer, that the basal diameter probably exceeded -55 of an 
+inch : I may add, that the largest European specimens of A. spongites, from Naples and 
+Portugal, are only '3 of an inch in basal diameter. 
+
+Scuta (fig. 6c). — ^'Phese seem to resemble the scuta of A. spongites in all respects, except 
+
+
+
+© The Comclete Work of Charles Darwin Online 
+
+
+
+PYRGOMA. 
+
+
+
+35 
+
+
+
+in the external longitudinal ridges standing much further apart, and, consequently, in the 
+furrows being much wider : each ridge is generally double. Although there is a good deal 
+of variabihty in the character of these ridges in A. undulata, and likewise in A. spongitea, I 
+have not seen any form intermediate between them. It must, however, be confessed, that 
+this is an extremely variable character in many sessile cirripedes. Internally the scutum 
+(fig. M) is chiefly characterised by the absence of characters, that is, by the slightness of 
+the pits for the muscles, and the little prominence of the articular ridge. In the tergum 
+(fig. 6/), the spur is about half the width of the whole valve, and therefore rather wider 
+than in A. apongitea. 
+
+
+
+Genua — Pyrgoma. 
+
+PrKGOMA. Leach. Journal de Physique, tom. 85, 1817. 
+
+Boscia. Fenittac. Diet. Classique d’Hist. Naturelle, 1822. 
+
+Savionidu. Leach. Zoological Journal, vol. ii, July, 1825. 
+
+Meoatreha. Ib. Ib. 
+
+Adna. Ib. Ib. 
+
+Daracia. J. E. Gray. Annals of Phil, (new series), August, 1825. 
+
+Creusia. Ve Blainville. Diet. Sc. Nat., PI. 116, 1816-30. 
+
+Nobia. G. B. Sowerby.jmr. Concbological Manual,' 1839. 
+
+Valva teat<B in unam confluente •• baaia egathiformia out aubcglindrica, coraliia affiwa .• 
+valvee operadarea inter ae articulate. 
+
+Shell formed of a single piece : basis cup-formed, or subcylindrical, attached to corals : 
+scutum and tergum articulated together. 
+
+This genus can at once be recognised by the shell consisting of a single piece without 
+sutures, whether viewed externally or internally, and by the cup-shaped basis, attached and 
+often imbedded in corals. The one species, P. Anglicum, found both recent and fossil, 
+together with a closely allied recent species, P. Stokeaii, in all the characters derived from 
+the opercular valves, closely resemble Balanus and other ordinary forms, and for this very 
+reason they have some slight claims to be generically separated from the other species of 
+Pyi goma ; for in these latter, the opercular valves seem to have broken loose from all law, 
+presenting a greater diversity in character than do all the other species of Balaninm and 
+and Chthamalinae taken together. 
+
+' The uame, Nobia, ia given in this work on the authority of Leach, but this must be a mistake, pro- 
+bably caused by some MS. name, (that fertile source of error iu nomenclature), having been used. 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+36 
+
+
+
+FOSSIL CIRRIPEDIA. 
+
+
+
+Pyrgoma Angliccm. Tab. II, tig. 7a — 7c. 
+
+Pybooua Anolica. O. B. Sotoerby. Genera of Recent and Fosail Shells, fig. 7, 
+No. 18, Sept. 1823 (sine descript.). 
+
+Meqatrema (Adna) Anouca. J. E. Gray. Annals of Pbilosopli. (new series), vol. x, 
+Aug. 1825. 
+
+Pyrooua si'LCATDM. Philippi. Enumeratio Molluscornm Sicilise, Tab. 12, fig. 24, 
+(1836). 
+
+— ANOLICA. Brovm. Illustrations of Conchology, (2d edit., 1844), Tab. 53, 
+fig. 27—29. 
+
+P. testa abrujate conied, purpureo-rubrd ; orificio ovato, angusto ; basi porosd, plerumque 
+e coralio exserta : scuta et tergo subtriangularibus. 
+
+Shell steeply conical, purplish red ; orifice oval, narrow : basis permeated by pores, 
+generally exserted out of the coral : scutum and tergum sub-triangular. 
+
+Postil in the Coralline Crag (Ramsholt) Mas. S. Wood. 
+
+Recent on the south coast of England and of Ireland, (12 to 45 fathoms, Forbes and MacAndrew) ; 
+Sicily; Madeira; St. Jago, Cape de Verde Islands; generally attached to the edge of the cup of a 
+Caryophyllis, in deep water, but at St. Jago within the tidal limits. 
+
+I have considered this fossil as identical with the recent species, but, as may be seen 
+from the following description, it presents several slight differences; yet they are such that 
+I dare not found a new species on only a few specimens thus characterised. 
+
+The shell is steeply conical, slightly compressed, with the lower part having rounded, 
+approximate, radiating ribs ; these ribs seem to be more prominent in the fossil than in 
+the recent specimens. Colour dull purplish-red. Orifice oval, small, and narrow. The 
+basis is not deeply conical, and occasionally is even flat: in the Crag specimens it is almost 
+wholly imbedded in the coral to which it is attached ; but in recent specimens it is gene- 
+rally exserted. Externally the basis is furnished with ribs corresponding with those on the 
+shell. The largest recent specimens which I have seen, from St. Jago, was 22 of an inch 
+in basal diameter ; but some few of the British sjjccimens are nearly as large, and one of 
+the fossils from the Coralline Crag a very little larger. 
+
+The scuta and terga are of the ordinary shajie of these valves in Balanns «nd its 
+allies. Scutum (fig. 75) triangular, with the basal margin a little curved and protuberant ; 
+adductor and articular ridges distinct from each other, moderately prominent; there is 
+a small hollow for the lateral depressor muscle : in the fossils, the adductor ridge (as 
+figured) is more distinct from the articular ridge, and consequently the cavity for the 
+lateral depressor muscle is wider and less deep that in recent specimens. Tergum, I have not 
+seen a fossil specimen, but have figured a recent valve (7c) ; it is triangular, with the spur rather 
+narrow, moderately long, placed near, but not confluent with, the basi-scutal angle of the 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+CORONULA. 
+
+
+
+37 
+
+
+
+valve. The basal margin forms an angle rather above a right angle with the spur. Inter- 
+nally the articular ridge and crests for the depressor muscles, feebly developed. 
+
+Internal Structure of the Shell and Basis. — Internally, the shell is ribbed, more or less 
+prominently. The lower edge of the sheath, which is reddish, and extends far down the 
+walls, seems always to project freely. In several specimens there were on each side, at 
+the carinal end of the shell, a trace apparently of a suture, which could be perceived only 
+on the sheath. The basis appears always to be permeated by minute tubes or pores, 
+though these are sometimes rather difficult to be seen. 
+
+Michelotti, in the ‘Bulletin Soc. Geolog.’ Tom. 10, p. 141, has named, but not 
+described, a species, viz., Pyrgoma undata, from the northern Italian Tertiary Strata. 
+
+
+
+Genus — Coronula. 
+
+CoBOMDLA. Lamarck. Annoles du Masdom, tom. i, (1802). 
+
+Diadema. Schumacher. Euai d’un Nouveau Sytt., &c., 1817. 
+
+CzTOPiBUs (SED NO.N Cobonula). Ratuoui. Memoire di Storia Naturale, (1820). 
+
+PoLYLEFAS. J. E. Gray, {Klein). Annala of Philoaophy, (new aeriea), vol. 10, 1825. 
+
+Valote tastee 6, aquali latitudine; parietes tenues, prof unde plicati, plicis cavitates 
+infra solum apertas efflcientibus; valves operculares non inter se articulatee, orificio tesUe 
+multo minores : basis membranacea. Cetaeeis affixa. 
+
+Compartments six, of etjual sizes : walls thin, deeply folded, with the folds forming 
+cavities, open only on the under side of the shell : opercular valves much smaller than the 
+orifice of the shell; when both present not articulated together; basis membranous. 
+.\ttached to Cetaceans. 
+
+The structure of the shell of Coronula is complicated, and has been generally quite mis- 
+understood. Without a long description and several figures it would be impossible to 
+give a true idea of its singular structure ; but, in order to make the following description 
+at all intelligible, I must make a few remarks. The wall of each compartment, and there- 
+fore of the whole shell, is extremely thin j but strength is gained by its being folded in a 
+very complicated manner, as may be seen in the rostral compartment. Tab. II, fig. 8A, 
+by tracing the wall eU> d,\a d'\ the folds at their outer ends are elongated into transverse 
+loops, the extremities of which touch each other ; consequently, what appears to be the out- 
+side of the shell consists only of a portion of the wall, namely, the outsides of the transverse 
+circumferential loops, together with the radii. These loops appear externally like much 
+flattened longitudinal broad ribs. On the other hand, the inside of the shell, in which the 
+body is lodged, consists of the inner ends of the folded walls, lined by the sheath, and by 
+the alee. The basal edges of the folded walls, in the line of the ray of the circular shell, 
+are oblique ; the outer ends, or transverse circumferential loops, having grown downwards 
+at a greater rate than the inner ends. Between each fold of the walls, there is a flattened 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+FOSSIL CIRRTPEDIA. 
+
+
+
+cavity, open at the bottom of the shell, and running up to the apex : these cavities are quite 
+external to the cirripede, and are occupied by the epidermis of the whale to which the 
+Coronula is attached : homologically they are only deep longitudinal furrows, and they would 
+still have been furrows, had not the transversely elongated ends of the folds, i. e., the 
+circumferential loops, in all cases, after early growth, grown into close contact. The ends of 
+these loops are generally locked together by rows of minute teeth. In all the species, 
+when young, the wall of each compartment is folded three times, and therefore the whole 
+shell has eighteen folds. 
+
+The radii, normally, are only part of the wall, modified by growing against an opposed 
+compartment ; and hence the radius in Coronula would have been extremely thin, like the 
+wall, and the sutures between the six compartments excessively weak, had not the radii 
+been specially thickened by numerous sinuous denticulated plates, springing from the inner 
+lamina of the true radius, and running downwards, attached to the folded wall of the com- 
+partment to which the radius belongs, and with their free edges pressed against the folded 
+wall of the opposed compartment. Hence the radii may be said to be compound. For 
+the sake of strengthening the sutures, the alse, also, are very unusually thick : but, notwith- 
+standing their thickness and the thickness of the compound radii, owing to the depth of 
+the folds of wall, they are separated from each other by a considerable space, and the alae, 
+instead of resting in chief part, as they should do, on the inner lamina of the radius, have 
+to rest on special plates, developed apparently from the sheath. In the upper part of the 
+shell, between the special plates on which the ate rest, and the compound radii, there are 
+in two of the three recent species, open chambers, six in number, occupied by the ovarian 
+caeca ; but in the fossil C. barhara these chambers are almost filled up solidly by shell. I 
+hope that the terms used in the following description may be now in some partial degree 
+rendered intelligible. 
+
+
+
+Coronula Barbara. Tab. II, fig. 8a — 8c. 
+
+CORONDLITES DIADEMA (?) Parkituon. Organic Remains (1811), Tol. iii, p. 2-10, 
+pi. 16, 6g. 19. 
+
+C. testa {probabiliter) coroniformi, costis longitudinalibus convexis, aciebus earum cre- 
+natis, supeificie intemdet externa cristis transversis asperd; radiis modice crassis; spatio 
+inter radios et alas solide impleto. 
+
+Shell (probably) crown-shaped, with longitudinal convex ribs, having their edges 
+crenated, and their surfaces rugged, both externally and internally, with transverse ridges : 
+radii moderately thick ; the space between the radii and the ate solidly filled up. 
+
+
+
+Fossil in Red Crag, (Bawdaey and Sutton) ; Mua. S. Wood and Geological Society. 
+
+
+
+COROXULA. 
+
+
+
+31 ) 
+
+
+
+This species, though closely allied to C. diadema and easily confounded with it, I have 
+no doubt is distinct. I owe to the kindness of the Rev. Mr. Image an examination of the 
+original specimen figured by Parkinson ; and in Mr. Stutchbury’s collection there is a 
+similar and more perfect specimen ; both of these resemble C. diadema in general form, 
+but have been too much worn to be positively identified. Tlie following description is 
+drawn up from some compartments collected by Mr. Searles Wood, belonging certainly to 
+three and probably to four individuals, one of which was young ; as these specimens agree 
+in all essential respects, I feel pretty confident that the characters, by which the present 
+species diflFer from C. diadema, are of specific value. 
+
+Structure of Shell. — The longitudinal ribs on each compartment (i. e. the circumferen- 
+tial transverse loops), are convex and prominent, as in C. diadema, but they are crossed by 
+more prominent ridges of growth (fig. 8a, 8e) than even in the roughest varieties of that 
+species, so that the surface of the shell is more rugged. In the three recent species — viz., 
+C. diadema, balanaris, and reginte, the surface of the wall all round the cavities oc- 
+cupied by the whale’s skin, is striated only by very fine longitudinal lines ; but here, the 
+outer portion, or that (fig. 8rf) formed by the transverse loops, is erossed by transverse 
+ridges of growth, like, but less prominent, than those on the external surface of the shell. 
+The minute teeth, along the lines of junction between the transverse loops, are here less 
+regular, and can hardly be said to exist ; for the two edges are locked together by what may 
+be more strictly called minute zig-zag ridges (fig. 8rf, 8c), than teeth. The exact number of the 
+eircumferential plications (fig. 8i) in the wall of the shell is variable, in the same manner as 
+in the three recent species. In the rostrum which has been figured (8i, enlarged twice 
+its natural size), there is a peculiarity, probably accidental, which I have seen in no 
+other specimen — namely, that one of the transverse circumferential loops at the end of one 
+of the original folds of the wall, has ceased to be added to, and therefore may be seen 
+(rather on the right hand of the middle of the figure) to terminate in one of the cavities 
+between two adjoining folds. The sutural edges of the compound radii (rf, fig. 8i) 
+are about as thick as, or rather thicker than, in C. diadema; for in the middle part 
+they do not reach to the sheath by about half the thickness of the compartment. In the 
+same manner as in C. diadema and regina, each ala here rests, not on the internal surface 
+(as in C. balanaris, aiM in all other Balanidce) of the radius, but on a special plate (c, fig. 
+8i, 8c) ; but in C. barbara, instead of there being a deep chamber, running up to the apex 
+of the compartment, between the radius and the special plate, this part is filled up almost 
+entirely by solid shell. Although the extent to which this chamber is filled up varies a little, 
+and although its depth varies a little in C. diadema, yet there is a marked difference between 
+the specimens of this latter species, in which the chamber is most filled up, and those of 
+C. barbara, in which it is least filled up. The aim are thick, as in C. diadema, and their 
+sutural edges have a central ridge, sending off on both sides sinuous crests. The basal 
+margins of the aim are not short compared with their upper margins, and therefore the 
+whole ala is not wedge-formed (fig. 8c); and in this rather important respect C. barbara 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+40 
+
+
+
+FOSSIL CIRRIPEDIA.. 
+
+
+
+resembles C. balanaris, and differs from C. diadema. The lower edge of the sheath does 
+not seem to have projected freely, — in this respect, also, resembhng C. baltenaria. From 
+the basal margin of the alae not being narrow, and from the inner ends of the folded walls 
+being, as it wonld appear, also broad, I have little doubt that the cavity in which the 
+animal’s body was lodged, resembled in shape that in C. balamris, the membranous basis 
+being larger than the orifice of the shell. 
+
+Opercular valves unknown. 
+
+Summary. — This species is more nearly related to C. diadema than to the others ; but 
+in some points, just specified, it resembles C. balanaris. The characters by which it 
+differs from all the species are, firstly, the more prominent transverse ridges on the 
+external surface of the shell, and more especially on the surfaces bounding the outer sides 
+of the cavities occupied by the epidermis of the whale. Secondly, the character of the 
+teeth, or rather ridges, along the lines of junction between the transverse loops. And, 
+thirdly, the spaces between the radii and the special plates on which the alae rest, being 
+solidly filled up. 
+
+The Coronula bifida is an Italian tertiary species, so named by Bronn, in his “ Italiens 
+Tertiar-Gcbilde” (1831), p. 126. It is very possible that this may be identical with 
+C. barbara, but Bronn does not seem to have been aware of the absolute necessity of 
+giving minute details in his descriptions of fossil cirripedes. The chief character of 
+C. bifida is thus given : — “ Fine tiefe Furcle oder Spalte theilt die La^genrippe von oben 
+herab bis zur Ilalfte, welche bei der sonst ahnlichen C. diadema entweder ganz fehlt, oder nur 
+zuweilen kurz angedeutet ist.” Had it been stated that the longitudinal ribs were divided 
+from the middle down to the base, instead of from the top to the middle, the description 
+would have been intelligible to me, though the character thus afforded wonld not have 
+been of specific value, as this dividing of the ribs occasionally occurs in all four species, 
+and is produced by the formation of new folds in the walls. 
+
+
+
+Family — Verrccid.e. 
+
+Cirripedia sine pedunculo : acuta et terya, muaculia depreaaoribua non inatructa, ex uno 
+latere tantum mobilia, ex altero cum carind et roatro in teatam aaymmetricam immobiliter 
+conjuncta. 
+
+Cirripedia without a peduncle : scuta and terga, not furnished with depressor muscles, 
+moveable only on one side, on the other side united immoveably with the rostrum and 
+Carina into an unsymmetrical shell. 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+VERRUCA. 
+
+
+
+41 
+
+
+
+Genus — Verrcca. 
+
+Verkcca.' Schumacher. Euai d’nn Nouvnn Sy«t. CIam., 1817. 
+
+Clysia. Leach. Joarnid de Physique, tom. 85, July, 1817 ; Clitia, Leach, Encyclo|>. 
+
+Brit. Suppl., Tol. iii, 1824; Clitia, 6. B. Sowerby, Geurra of Keceut and 
+Fowil Shells. 
+
+Cbecsia. Lamarck. Animanx sans Vertcbres, 1818. 
+
+OcHTUOsiA. Sancani. Memoire di Storia Nat., 1820. 
+
+Lepas bt Balani’s Auctobiim. 
+
+The family of Verrucidae includes only the above single genus ; but it has, I think, as 
+good a claim to be considered a distinct Family as either the Balanidae or Lepadidae, that 
+is, either the Sessile or Pedunculated Cirripedcs. The two latter Families difiFer from each 
+other almost exclusively in the nature of the shell or external covering, and in the 
+muscles moving the different portions of it: now Verruca has a very peculiar shell, 
+destitute of all muscles, excepting the adductor scutorum, and composed of only six 
+valves, and these are so unequally developed, that the longitudinal dorso-ventral plane of 
+the body comes to lie nearly parallel to the surface of attachment, instead of at right angles 
+to it. Upon the whole, the Verrucidae are nearly equally related to the Lepadidae and 
+Balanidae ; but certainly nearer to the Lepadidae, than to the sub-family Balaninae or typical 
+sessile cirripedes; though, on the other hand, if compelled to place Verruca in one of 
+these two Families, I should place it amongst the Chtbamalinae, the other sub-family of 
+Balanidae. The distinctness of Verruca, though in appearance a sessile cirripede, from 
+the Balanidae or true sessile cirripedes, is interesting, inasmuch as no member of this latter 
+Family has hitherto been found fossil in any Secondary Deposit, whereas Verruca ranges 
+from the present day to the upper beds of the Chalk near Norwich, and in Belgium ; 
+being likewise found in the Glacial Deposits, in the Red and Coralline Crags of England, 
+and in an ancient tertiary formation of Patagonia. 
+
+The shell of Verruca has generally been quite misunderstood : it consists, as already 
+stated, of six valves ; and these can be proved (as I have shown in my volume published 
+by the Ray Society), by tracing the development of the young shell, to consist of a rostrum 
+and Carina, imequally developed on their two sides, — of a scutum and tergum in their 
+normal and moveable condition, — and, lastly, of the scutum and tergum on the opposite 
+side, most singularly modified, immoveably articulated to the rostrum and carina, forming 
+together with them a shell, which is firmly united to the basal membrane, and so to the 
+surface of attachment. It can be shown that the very remarkable modification and 
+
+* According to Bock, in the ' Naturfoneber’ of 1778, this term was used by Rumph for a Chelonobia, 
+but as it was before the adoption of the binomial nomenclature, according to the Rules, it may be passed 
+over, and does not interfere with the priority of Schumacher. 
+
+6 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+42 
+
+
+
+FOSSIL CIRRIPEDIA. 
+
+
+
+enlargement of the fixed scutum and tergum, is due to the development of a single small 
+portion in each valve, namely, the lower ridge of the articular ridges by which these 
+valves are united together. It is very remarkable that in all the species it seems to be a 
+matter of chance, whether the right or left hand valves undergo this singular modification ; 
+consequently, of ever)' valve it is equally likely to find a right-hand or left-hand specimen ; 
+and these, though exactly alike, except in being reversed, or in coming from opposite sides 
+of the body, yet, from this very circumstance, and from the fixed valves being of very 
+irregular shapes, are rather perplexing to identify. This short description will, I hope, 
+suffice to make the following descriptions intelligible. 
+
+
+
+1. Verruca Stromia. Tab. II, fig. 9«, 9 A 
+
+Lepas Sthomia. O. Mailer. Zoolog. Dan. Prod., No. 3025, 1776. 
+
+— — Ib. Zoolog. Dan., vol. iii. Tab. 94, 1789. 
+
+— STRIATA. Pennant. British Zoology, vol. ir. Tab. 38, fig. 7, 1777. 
+
+Die waezenformioe meereichel. Spengler. Schrifteif der Berlin. Gesell., 1 B., 
+Tab. 5, fig. 1—3, 1780. 
+
+Lepas VERRUCA. Spengler. Skrifter af Naturhist. Selskabet, 1 B., 1790. 
+
+— — ET Stromia. Gmelin. Syst. Nat., 1789. 
+
+Balanus veruoa. Brvguiire. Encyclop. Meth., 1789; Clitia verrucoea, Deshayes, in 
+Tab. 
+
+— INTERTEXTUS. Pulteney. Catalogue of Shells of Dorsetshire, 1799. 
+
+Lepas striatus. Montagu. Test. Brit., 1803. 
+
+— VERRUCA. Wood’t General Conchology, PI. 9, fig. 5, 1815. 
+
+Verruca Strouii. Schumacher. Essai d’un Nouveau Syst. Class., 1817. 
+
+Creusia Stromia kt verruca. Lamarck, Animauz sans Vertebres, 1818. 
+OcHTHOSlA Stroemia. Ranzani. Memoire di Storia Nat., 1820. 
+
+Clisia striata. Leach. Encyclop. Brit. Suppl., vol. iii (sine descript.), 1824. 
+CuTiA VERRUCA. 0. B. Sowcrby. Genera of Recent and Fossil Shells, Plate. 
+Verruca Stromii. J. E. Gray. Annals of Philosophy (new series), vol. z, Aug. 1825. 
+
+V. scttto mobili, crista articulari inferiore dimidiam brevis crista artietdaris superioris 
+tatitudinem non aquante : testa plerumque longitudincditer sulcata. 
+
+Moveable scutum, with the lower articular ridge not half as broad as the short upper 
+articular ridge : shell generally ribbed longitudinally. 
+
+Potml in Glacial deposiu of Scotland, Mus. Lyell ; Red Crag (Walton, Essex), Coralline Crag (Sutton), 
+Mus. S. V. Wood. 
+
+Recent on the shores of Great Britain and Ireland ; Shetland Islands ; Denmark ; Iceland ; shores 
+of northeni Europe ; Red Sea. Attached to shells, laminarise, rocks, crabs, and floating bark, from low 
+tidal mark to fifty or ninety fathoms. 
+
+I have seen a perfect specimen of this species from the Glacial deposits of Scotland, and 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+VERRUCA. 
+
+
+
+43 
+
+
+
+separated valves from the Red and Coralline Crags, collected by Mr. S. Wood. The 
+moveable opercular valves have not been discovered ; and these are certainly much the 
+most important parts for the diagnosis of the species ; but the other valves are tolerably 
+perfect, and are undistinguishable from recent specimens of F. Stromia ; therefore, I have 
+ventured, with some hesitation, thus to name these specimens. The fossil specimens all 
+belong to the common variety, having its shell longitudinally ribbed, a character not 
+observed in the four other species of the genus. As an aid to collectors in the Crag, I have 
+thought it would be more serviceable to give a drawing (fig. 9 a), from a recent specimen, 
+of all the six valves, separated, but in as nearly as possible their proper relative positions, 
+and likewise of the under side of the fixed scutiun and tergum, than to give fac-similes of 
+such valves, in themselves not perfectly characteristic, which have as yet been discovered 
+fossil. 
+
+It should be borne in mind, that of the six valves of which figures are here given, it is 
+just as likely that reversed specimens from the opposite side of the body should be found, 
+as these which represent valves taken from a specimen in which the left-hand scutum and 
+tergum were fixed and formed part of the shell. 
+
+
+
+2. Vekeuca PRiscA. Tab. II, fig. lOa — lOc. 
+
+Vekrdca PRISCA. Botquel. Monographie des Crustacds fotsiles da Temun Cr^t. dt 
+Limbourg, Tab. 1, fig. 1 — 6 ; 1853. 
+
+V. testa lavi; scuti mobilis crista articulan inferiore aliquanto latiore quam 
+superior. 
+
+Shell smooth : moveable scutum, with the lower articular ridge somewhat broader than 
+the upper articular ridge. 
+
+Foail in Chalk, Norwich, Mas. J. de C. Sowerby : ‘ Systime Senonien et Maeatrichtieu,' Belgium, 
+Mua. Bosquet. 
+
+M. Bosquet has admirably figured and described the several separated valves belonging 
+to this species, and I owe to his great kindness an examination of some of them. In Mr. 
+J. de C. Sowerby’s collection, also, there is a single specimen (fig, 10a), attached to a 
+Mollusc, with the four valves of the shell united together, but without the two moveable 
+opercular valves ; it cannot be positively asserted that this is the same species with that 
+of M. Bosquet, but such probably is the case. The opercular valves (fig. 104, 10c) are 
+necessarily figured from Belgian specimens. It is the English specimen to which I 
+alluded in the Introduction to my ‘Monograph on Fossil Lepadidm.’ This species of 
+Verruca is interesting, from being the only known Secondary one, but in itself it is a 
+
+
+
+© The Complete Work of Charles Darwin Online 
+
+
+
+44 
+
+
+
+FOSSIL CIRRIPEDIA. 
+
+
+
+very poorly characterised form, and I can point out no important character in the shell 
+by which it can be recognised. The rostrum and carina, which are of nearly equal sizes, 
+arc locked together, and likewise to the fixed scutum and tergum, by the usual interfold- 
+ing plates ; the plates between these latter valves seem to have been less developed in 
+M. Bosquet’s specimen than in the English. The fixed scutum has a large adductor plate, 
+which seems to have been chipped in M. Bosquet’s specimen ; this valve and the fixed 
+tergum in all essential respects resemble the same valves in V. Slromia. The surface of 
+the shell is very smooth. 
+
+'fhe moveable scutum has its occludent margin considerably arched : the lower articular 
+ridge is broader than the upper ridge, in which respect it resembles the same valve in V Icevi- 
+gaia, a South American form, but the whole valve is not so broad as in that species. There is 
+no adductor ridge on the under surface. 'Fhe moveable tergum has its upper articular 
+ridge narrow, and slightly produced into a point on the scutal margin : in this latter 
+respect this species, also, resembles V. lavigata, but differs from it in the whole valve not 
+being so broad in proportion to its height. 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+INDEX 
+
+
+
+MONOGRAPH ON FOSSIL BALANID.E. 
+
+
+
+b. DARWIN, M.A., F.R.S., Ac. 
+N.B . — The Humee in Italia are Synonymt. 
+
+
+
+Acuta undulata . .3-1 
+
+Adna . .35 
+
+Balanus anyulomt . .21 
+
+„ aretica patelli/ormie .21 
+
+„ biaulcatUB .26 
+
+„ calceolus . .15 
+
+„ eandidut . .25 
+
+„ clavatut . .23 
+
+„ concavua . .17 
+
+„ erastut . .13 
+
+„ crenatuB . .23 
+
+„ eylindraceus .17 
+
+„ doloaua . .28 
+
+„ d’Orbignii .13 
+
+„ elongatu* .23 
+
+„ eriitna .29 
+
+„ geniculatue .21 
+
+„ glacialu ■ .23 
+
+„ Hameri .21 
+
+„ incluauB .31 
+
+„ interlexlut .42 
+
+„ miter .17 
+
+„ perplexut . .29 
+
+„ porcatUB . .21 
+
+„ puetularie . .17 
+
+„ rugotut . . .23 
+
+„ ScoHeut . .21 
+
+
+
+FACE 
+
+BalaniiB apongicola .16 
+
+„ tulealinat .26 
+
+„ tuleatut . .21 
+
+„ teuelatus . .21 
+
+„ tintinnabiilam .13 
+
+tulipa 13,25 
+
+„ Vddeeallentit .25 
+
+„ iinguiformiB .29 
+
+„ verruca .42 
+
+„ sonariut . .17 
+
+Boieia . .35 
+
+Cetoplmi . 37 
+
+Chirona .12 
+
+CHtia verruca .42 
+
+Ctyeia .41 
+
+Conopea ovata .15 
+
+Coronula barbara . .38 
+
+CoronuUlet diademn .38 
+
+Creutia .... 35, 42 
+
+Daraeia .35 
+
+Diadema . .37 
+
+Lepat iaianui .21 
+
+„ borealie .23 
+
+„ ealeeolut .15 
+
+„ eoetata .21 
+
+„ criepala .13 
+
+„ foliacea ... 23, 24 
+
+
+
+© The Complete Work of Charles Darwin Online 
+
+
+
+2 
+
+
+
+INDEX. 
+
+
+
+Lepat Haaeri 
+
+„ tintinnadulum 
+„ lulipa alba . 
+
+
+
+FAGS 
+
+
+
+Megatrtmn .35 
+
+Mestula 12 
+
+Nobia . . 35 
+
+Oehthotia . .41 
+
+Polylepat .37 
+
+Pyrgoma Anglicum .36 
+
+Pyrgoma mlcatam . .36 
+
+Sacignium . 35 
+
+Verruca priaca . . 43 
+
+„ atromia .42 
+
+
+
+24 
+
+13 
+
+21 
+
+13 
+
+42 
+
+42 
+
+13.17 
+
+24 
+
+24 
+
+42 
+
+
+
+TAB. I. 
+
+
+
+Fig. la, Balanus tintinnabulum, nat. size ; small specimeu. 
+
+\b, „ „ rostrum, internal view of, large specimen, nat. size. 
+
+Ic, Id, „ „ scutum and tergum, internal views of, from recent spe- 
+
+cimens, the opercular valves not having been found 
+fossil. 
+
+
+
+Fig. 2a, Balanus calceolus, engraved from a recent specimen, the single fossil having been 
+injured during examination. 
+
+26, 2c, „ „ scutum and tergum, internal views. 
+
+2d, Spur of tergum, variety : all from recent specimens, the opercular valves not 
+having been found fossil. 
+
+Fig. 3a, 36, Balanus spongicola, scutum and tergum, external views. 
+
+3c, 3d, „ „ „ „ internal views. 
+
+3c, „ „ shell, enlarged from a recent specimen, the single fossil 
+
+being young, and having been injured by examination. 
+Fig. 4a, Balanus concavus, shell (Coralline Crag specimen), 
+
+46, „ „ internal view of part of the carina (to the left hand), of the ca- 
+
+rino-lateral compartment, and of part of the lateral compart- 
+ment, showing the raised borders (r) on the rostral sides of 
+the sutures in the sheath (Italian Tertiary specimen), 
+shell, car., with longitudinal ridges or ribs not prominent 
+(Coralline Crag). 
+
+smooth car. (Piedmont specimen), 
+scutum, external view (Coralline Crag). 
+
+„ internal view do. 
+
+tergum, external view do. 
+
+scutum, internal view (Maryland, U.S.). 
+
+tergum, internal view do. 
+
+„ external view do. 
+
+scutum, external view (Portugal fossil, and recent), 
+
+tergum, external view do. do 
+
+scutum, internal view do. do. 
+
+tergum, external view, very large specimen (Turin), 
+scutum, small portion, at the rostral corner, highly muguilied, 
+very large specimen (Turin). 
+
+Fig. 5a, Balanus porcatus, shell, nat. size (Red Crag). 
+
+
+
+© The ComDiete Work of Charles Darwin Online 
+
+
+
+FOSSIL CIRRIPEDIA. 
+
+
+
+5^, Balanus porcatus, small portion of basal margin of wall, much enlarged. 
+
+5c, „ „ portion of basal plate, much enlarged. 
+
+5d, 5e, 5/, 5ff, Balanus porcatus, scutum and tergum, external and internal views ; 
+
+engraved from recent specimens, the opercular 
+valves not having been positively found fossil. 
+Balanus crenatus, twice nat. size (Red Crag). 
+
+„ „ small portion of basal margin of wall, much enlarged. 
+
+„ „ portion of basal plate, of unusual thickness, much enlarged. 
+
+6e, „ „ scutum and tergum, external views frfim recent specimens. 
+
+„ „ „ „ j;ar.,intemal views from recent specimens. 
+
+76, Balanus Hameri, scutum and tergum, external views engraved from Canada 
+glacial specimens, the opercular valves not having been 
+found in Great Britain. 
+
+7rf, „ „ scutum and tergum, internal views of very large and old 
+
+specimens (Canada and Uddevalla). 
+
+
+
+Fig. 6a, 
+6i, 
+6c, 
+6d, 
+6 /, 
+
+Fig. 7 a, 
+
+
+
+7c, 
+
+
+
+TAB.l 
+
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+
+4 
+
+
+
+© The Complete Work of Charles Darwin Online 
+
+
+
+TAB. II. 
+
+
+
+Fig. la, Balanus Hameri, lateral compartment, viewed externally. 
+
+\b, „ „ carino-lateral compartment, viewed internally. 
+
+Fig. 2a, Balanus bisulcatus, shell, nat. size. 
+
+24, „ „ rostrum, viewed externally, to show the commencement of 
+
+the folding of the walls, 1^ nat. size. 
+
+2c, „ „ var. plicatus, thrice nat. size. 
+
+2d, „ „ very young shell, probably belonging to this species, enlarged 
+
+about seven times. 
+
+2e, 2/, „ „ scutum and tergum, external views. 
+
+2^, 2h „ „ „ „ internal views. 
+
+Fig. 3a, Balanus dolosus, rostrum, much enlarged, viewed internally. 
+
+34, „ „ portion of basal plate, much enlarged. 
+
+3c, M, „ „ scutum and tergum, external views. 
+
+Fig. 4a, Balanus unguiformis, shell, twice nat. size. 
+
+44, „ „ shell, var. erisma, twice nat. size. 
+
+4c, 4rf, „ „ scutum and tergum, external views. 
+
+4c, 4f, „ „ „ „ internal views. 
+
+Fig. 5a, Balanus inclusus, shell, nearly thrice nat. size. 
+
+„ basis of ditto, showing basal edges of the compartments. 
+
+5c, „ „ var., with its rostro-carinal axis elongated. 
+
+, var., „ „ >■ showing the narrow 
+
+furrowed basis and lower portions of the six compartments. 
+5c, „ „ var. intermediate between the last two varieties, basal view of, 
+
+nearly twice nat. size. 
+
+hf, 5y, „ „ scutum and tergum, internal views from a very young 
+
+specimen. 
+
+Fig. 6a, Acasta undulata, rostrum viewed externally ; spinose var . ; twice nat. size. 
+
+64, „ „ lateral compartment, smooth var., twice nat. size. 
+
+6c, „ „ basal cup. 
+
+6rf, „ „ scutum viewed internally. 
+
+6c, 6 /„ „ „ and tergum viewed externally. 
+
+Fig. 7a, Pyrgoma Anglicum, shell, viewed from above, four times nat. size. 
+
+74, „ „ scutum, internal view. 
+
+7c, „ „ tergum, internal view, engraved from recent specimen, this 
+
+valve not having been found fossil. 
+
+
+
+© The Comolete Work of Charles Darwin Online 
+
+
+
+FOSSIL CIRRIPEDIA. 
+
+
+
+Fig. 8a, Coronula barbara, rostrum, external view ; nat. size. 
+
+8i, „ „ „ viewed internally; twice nat. size. 
+
+8c, „ „ lateral compartment, internal view. 
+
+8d, „ „ internal view, much enlarged, of small portion of basal margin 
+
+of folded wall. 
+
+8c, „ „ external view, greatly enlarged, of small portion of surface of 
+
+folded walls, near the basal margin ; (r r) the transverse 
+ridges of growth. 
+
+The following letters of reference apply to all the figures of Coronula : 
+
+a, sheath marked transversely in the upper part by the attachment of the 
+opercular membrane. 
+a', ala 
+
+i, furrow on each side of (a), receiving the edge of the thick ala of the 
+adjoining lateral compartment. 
+
+c, special plate, on which the ala rests. 
+
+d, radius, on the edge it may be just seen to consist of an outer layer (the 
+
+normal radius), and a much thicker inner part (the pseudo or com- 
+plementary radios) formed of oblique denticulated septa. 
+e d e", basal edge of wall, which from its commencement at e, or e", can be 
+followed, folding up to near the basal edge of the sheath, to its 
+termination at e" or e. 
+
+//, serrated lines of junction between the folds of the wall. 
+
+Fig. 9a, Verruca Stromia, much enlarged, engraved from a recent specimen, only certain 
+valves having been found fossil. 
+
+„ „ fixed scutum and teigum, internal views. The following 
+
+letters apply to both these figures : 
+
+A, rostrum. 
+
+s, moveable scutum, s', scutum fixed and modified so as to form part of shell. 
+T, moveable tergum, t', tergum fixed, forming part of sbell. 
+
+In 8, and s', a is the occludent margin j b, the basal margin ; m, the plate 
+to which the adductor muscle is fixed. 
+
+In 8 and s', the tergal margin is marked by small dasbes ; (') being the 
+upper articular ridge, and (") the second or lower articular ridge : in 
+s' (") is called the parietal portion of the valve. 
+
+In T and t', the scutal margin is marked by small dashes ; (') being the first 
+and upper articular ridge, hardly distinct from the occludent margin, 
+and called in d the occludent rim j (") is the second or middle, and 
+('") the lower or third articular ridge, called in t' the parietal portion of 
+the valve : x is the carinal margin, called in t' the carinal rim, and z 
+the basal margin. 
+
+Fig. 10a, Verruca prisca, five times nat. size. 
+
+lOJ, 10c, „ scutum and tergum, external views; engraved from a Belgian 
+
+Cretacean specimen, the opercular valves not having been 
+found in England. 
+
+
+
+
+© The Comolete Work of Charies Darwin Online 
+
+
+

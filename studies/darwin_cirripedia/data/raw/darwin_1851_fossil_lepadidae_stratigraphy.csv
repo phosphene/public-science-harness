@@ -1,0 +1,36 @@
+species_name,genus,tertiary,maestricht_faxoe_scania,upper_chalk,lower_chalk,chalk_marl,upper_greensand,gault,lower_greensand,middle_oolite,lower_oolite,notes
+Scalpellum magnum,Scalpellum,*,—,—,—,—,—,—,—,—,—,Tertiary
+Scalpellum quadratum,Scalpellum,*,—,—,—,—,—,—,—,—,—,Tertiary
+Scalpellum fossula,Scalpellum,—,*,*,—,—,—,—,—,—,—,Maestricht and Upper Chalk
+Scalpellum maximum,Scalpellum,—,*,*,*,—,—,—,—,—,—,Maestricht to Lower Chalk
+Scalpellum lineatum,Scalpellum,—,—,—,*,—,—,—,—,—,—,Lower Chalk
+Scalpellum hastatum,Scalpellum,—,—,—,—,*,—,—,—,—,—,Chalk Marl
+Scalpellum angustum,Scalpellum,—,—,*?,—,—,—,—,—,—,—,Upper Chalk (doubtful)
+Scalpellum quadricarinatum,Scalpellum,—,—,—,—,*,—,—,—,—,—,Chalk Marl
+Scalpellum trilineatum,Scalpellum,—,—,—,—,*,—,—,—,—,—,Chalk Marl
+Scalpellum simplex,Scalpellum,—,—,—,—,—,—,—,*,—,—,Lower Greensand
+Scalpellum arcuatum,Scalpellum,—,—,—,—,—,—,*,—,—,—,Gault
+Scalpellum tuberculatum,Scalpellum,—,—,*?,—,—,—,—,—,—,—,Upper Chalk (doubtful)
+Scalpellum solidulum,Scalpellum,—,*,*,—,—,—,—,—,—,—,Maestricht and Upper Chalk
+Pollicipes concinnus,Pollicipes,—,—,—,—,—,—,—,—,*,—,Middle Oolite (Oxford Clay)
+Pollicipes ooliticus,Pollicipes,—,—,—,—,—,—,—,—,—,*,Lower Oolite (Stonesfield Slate)
+Pollicipes Hausmanni,Pollicipes,—,—,—,—,—,—,—,*?,—,—,Lower Greensand / Neocomian
+Pollicipes politus,Pollicipes,—,—,—,—,—,—,*,—,—,—,Gault
+Pollicipes elongatus,Pollicipes,—,—,—,—,*,—,—,—,—,—,Chalk Marl
+Pollicipes acuminatus,Pollicipes,—,—,—,—,*,—,—,—,—,—,Chalk Marl
+Pollicipes angelini,Pollicipes,—,*,—,—,—,—,—,—,—,—,Maestricht
+Pollicipes reflexus,Pollicipes,—,*,—,—,—,—,—,—,—,—,Maestricht
+Pollicipes carinatus,Pollicipes,—,*,—,—,—,—,—,—,—,—,Maestricht
+Pollicipes glaber,Pollicipes,—,*,*,*,*?,—,—,—,—,—,Maestricht to Lower Chalk / Chalk Marl
+Pollicipes unguis,Pollicipes,—,—,—,—,—,—,*,*,—,—,Gault and Lower Greensand
+Pollicipes validus,Pollicipes,—,*,*,—,—,—,—,—,—,—,Maestricht and Upper Chalk
+Pollicipes gracilis,Pollicipes,—,—,*,*,—,—,—,—,—,—,Upper and Lower Chalk
+Pollicipes dorsatus,Pollicipes,—,*,—,—,—,—,—,—,—,—,Maestricht
+Pollicipes striatus,Pollicipes,—,—,*,—,—,—,—,—,—,—,Upper Chalk
+Pollicipes semilatus,Pollicipes,—,—,*?,*?,*?,—,—,—,—,—,Upper Chalk to Chalk Marl (doubtful)
+Pollicipes rigidus,Pollicipes,—,—,—,—,—,—,*,—,—,—,Gault
+Pollicipes fallax,Pollicipes,—,*,*,—,—,—,—,—,—,—,Maestricht and Upper Chalk
+Pollicipes elegans,Pollicipes,—,*,—,—,—,—,—,—,—,—,Maestricht
+Pollicipes Bronnii,Pollicipes,—,—,—,—,—,*,—,—,—,—,Upper Greensand
+Pollicipes planulatus,Pollicipes,—,—,—,—,—,—,—,—,*,—,Middle Oolite (Oxford Clay)
+Loricula pulchella,Loricula,—,—,—,*,—,—,—,—,—,—,Lower Chalk
