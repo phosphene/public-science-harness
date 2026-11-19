@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [main]
+    branches: [main, "feat/*", "**/feat/*"]
   pull_request:
     branches: [main]
 
@@ -24,7 +24,7 @@ jobs:
         run: uv python install 3.12
 
       - name: Run Pytest suite
-        run: uv run pytest tests/ studies/cambrian-substrate/tests/
+        run: uv run pytest tests/ studies/cambrian-substrate/tests/ --hypothesis-show-statistics
 
       - name: Run BDD acceptance features (Behave)
         run: uv run behave features/
