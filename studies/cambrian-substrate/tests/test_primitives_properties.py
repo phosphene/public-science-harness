@@ -6,13 +6,13 @@ Uses Hypothesis to verify physical invariants, monotonicity, and analytical base
 import math
 import numpy as np
 import pytest
-from hypothesis import given, strategies as st
+from hypothesis import given, settings, target
+from hypothesis import strategies as st
 
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent / 'models'))
 from primitives import (
-
     analytical_steady_state_exponential,
     aerobic_niche_integral,
     biodiffusion_kernel,
@@ -21,14 +21,25 @@ from primitives import (
 )
 
 
+def finite_positive_floats(min_val: float, max_val: float) -> st.SearchStrategy[float]:
+    """Helper generating strictly finite, normalized positive floats (no NaN, inf, or subnormals)."""
+    return st.floats(
+        min_value=min_val,
+        max_value=max_val,
+        allow_nan=False,
+        allow_infinity=False,
+        allow_subnormal=False,
+    )
+
+
 class TestBiodiffusionKernelProperties:
     """Hypothesis tests for Primitive 1: biodiffusion_kernel."""
 
     @given(
-        z=st.floats(min_value=0.0, max_value=200.0),
-        z_max=st.floats(min_value=0.0, max_value=100.0),
-        d_b0=st.floats(min_value=0.1, max_value=100.0),
-        sigma=st.floats(min_value=1.0, max_value=20.0),
+        z=finite_positive_floats(min_val=0.0, max_val=200.0),
+        z_max=finite_positive_floats(min_val=0.0, max_val=100.0),
+        d_b0=finite_positive_floats(min_val=0.1, max_val=100.0),
+        sigma=finite_positive_floats(min_val=1.0, max_val=20.0),
     )
     def test_positivity_and_plateau_invariant(self, z: float, z_max: float, d_b0: float, sigma: float):
         val = biodiffusion_kernel(z, z_max, d_b0, sigma)
@@ -38,13 +49,15 @@ class TestBiodiffusionKernelProperties:
         assert val <= d_b0 + 1e-9
         # Invariant 3: Equal to d_b0 within the mixed layer
         if z <= z_max:
-            assert abs(val - d_b0) < 1e-9
+            plateau_defect = abs(val - d_b0)
+            target(plateau_defect, label="biodiffusion_plateau_defect")
+            assert plateau_defect < 1e-9
 
     @given(
-        z1=st.floats(min_value=0.0, max_value=100.0),
-        z2=st.floats(min_value=0.0, max_value=100.0),
-        z_max=st.floats(min_value=0.0, max_value=50.0),
-        d_b0=st.floats(min_value=1.0, max_value=50.0),
+        z1=finite_positive_floats(min_val=0.0, max_val=100.0),
+        z2=finite_positive_floats(min_val=0.0, max_val=100.0),
+        z_max=finite_positive_floats(min_val=0.0, max_val=50.0),
+        d_b0=finite_positive_floats(min_val=1.0, max_val=50.0),
     )
     def test_monotonicity_beyond_mixed_layer(self, z1: float, z2: float, z_max: float, d_b0: float):
         low_z = min(z1, z2)
@@ -53,6 +66,8 @@ class TestBiodiffusionKernelProperties:
             val_low = biodiffusion_kernel(low_z, z_max, d_b0)
             val_high = biodiffusion_kernel(high_z, z_max, d_b0)
             # Invariant 4: Monotonically non-increasing with depth
+            diff = val_low - val_high
+            target(max(0.0, -diff), label="monotonicity_violation_margin")
             assert val_low >= val_high - 1e-9
 
 
@@ -60,10 +75,10 @@ class TestRespirationSinkProperties:
     """Hypothesis tests for Primitive 2: respiration_sink."""
 
     @given(
-        c=st.floats(min_value=0.0, max_value=100.0),
-        o2=st.floats(min_value=0.0, max_value=500.0),
-        k_c=st.floats(min_value=0.01, max_value=10.0),
-        km=st.floats(min_value=0.1, max_value=10.0),
+        c=finite_positive_floats(min_val=0.0, max_val=100.0),
+        o2=finite_positive_floats(min_val=0.0, max_val=500.0),
+        k_c=finite_positive_floats(min_val=0.01, max_val=10.0),
+        km=finite_positive_floats(min_val=0.1, max_val=10.0),
     )
     def test_kinetics_bounds(self, c: float, o2: float, k_c: float, km: float):
         sink = respiration_sink(c, o2, k_c, km)
@@ -73,7 +88,9 @@ class TestRespirationSinkProperties:
         assert sink <= (k_c * c) + 1e-9
         # Invariant 3: Zero when either substrate is zero
         if c == 0.0 or o2 == 0.0:
-            assert abs(sink) < 1e-9
+            zero_defect = abs(sink)
+            target(zero_defect, label="respiration_zero_defect")
+            assert zero_defect < 1e-9
 
 
 class TestConservationAndAnalyticalVerification:
