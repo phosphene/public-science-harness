@@ -12,6 +12,7 @@ license = "BSD-3-Clause"
 dependencies = [
     "pydantic>=2.0",
     "numpy>=1.24.0",
+    "phosphene-holonomy",
 ]
 
 [project.optional-dependencies]
@@ -36,3 +37,6 @@ dev = [
     "hypothesis>=6.170.15",
     "scipy>=1.17.1",
 ]
+
+[tool.uv.sources]
+phosphene-holonomy = { git = "https://github.com/phosphene/phosphene-py-packages", subdirectory = "packages/phosphene-holonomy" }

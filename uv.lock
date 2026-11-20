@@ -379,6 +379,7 @@ source = { editable = "." }
 dependencies = [
     { name = "numpy", version = "2.4.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.12'" },
     { name = "numpy", version = "2.5.5", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.12'" },
+    { name = "phosphene-holonomy" },
     { name = "pydantic" },
 ]
 
@@ -404,6 +405,7 @@ requires-dist = [
     { name = "behave", marker = "extra == 'dev'", specifier = ">=1.2.6" },
     { name = "duckdb", marker = "extra == 'dev'", specifier = ">=1.0.0" },
     { name = "numpy", specifier = ">=1.24.0" },
+    { name = "phosphene-holonomy", git = "https://github.com/phosphene/phosphene-py-packages?subdirectory=packages%2Fphosphene-holonomy" },
     { name = "pydantic", specifier = ">=2.0" },
     { name = "pytest", marker = "extra == 'dev'", specifier = ">=8.0" },
 ]
@@ -416,6 +418,18 @@ dev = [
     { name = "hypothesis", specifier = ">=6.170.15" },
     { name = "pytest", specifier = ">=8.0" },
     { name = "scipy", specifier = ">=1.17.1" },
+]
+
+[[package]]
+name = "phosphene-holonomy"
+version = "0.1.0"
+source = { git = "https://github.com/phosphene/phosphene-py-packages?subdirectory=packages%2Fphosphene-holonomy#0bb979395326e2c040425be429de089e8b333a9b" }
+dependencies = [
+    { name = "numpy", version = "2.4.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.12'" },
+    { name = "numpy", version = "2.5.5", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.12'" },
+    { name = "pydantic" },
+    { name = "scipy", version = "1.17.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.12'" },
+    { name = "scipy", version = "1.18.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.12'" },
 ]
 
 [[package]]

@@ -1,6 +1,8 @@
 """
 Canonical Macroevolutionary Birth-Death and Preservation Primitives.
 Pure functional mathematical building blocks decomposed from first principles.
+Delegates core mathematical primitives to phosphene-holonomy while maintaining
+domain-specific interfaces for Cambrian substrate calibration.
 Ref: Kendall (1948), Keiding (1975), Silvestro et al. (2014, 2019), van Holstein & Foley (2024).
 """
 
@@ -9,6 +11,13 @@ from __future__ import annotations
 import math
 from typing import Sequence
 import numpy as np
+
+from phosphene.holonomy.macroevo.primitives import (
+    log_diversity_hazard as _holonomy_log_diversity_hazard,
+    log_keiding_conditioning as _holonomy_log_keiding_conditioning,
+    log_poisson_occurrences as _holonomy_log_poisson_occurrences,
+    log_extinction_density as _holonomy_log_extinction_density,
+)
 
 
 def keiding_sampling_probability(
@@ -66,6 +75,9 @@ def diversity_dependent_hazard(
         raise ValueError("Standing diversity N cannot be negative.")
         
     if model == "exponential":
+        if isinstance(n_standing, (int, float)):
+            log_hazard = _holonomy_log_diversity_hazard(rate_0, feedback_coeff, float(n_standing), clamp_bound=50.0)
+            return float(math.exp(log_hazard))
         rates = rate_0 * np.exp(np.clip(feedback_coeff * n_arr, -50.0, 50.0))
     elif model == "linear":
         rates = np.maximum(0.0, rate_0 + feedback_coeff * n_arr)
