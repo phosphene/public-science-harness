@@ -39,4 +39,4 @@ dev = [
 ]
 
 [tool.uv.sources]
-phosphene-holonomy = { git = "https://github.com/phosphene/holonomy", branch = "feat/axiomatic-dft-macroevo-refactor" }
+phosphene-holonomy = { git = "https://github.com/phosphene/holonomy" }

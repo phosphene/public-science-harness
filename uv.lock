@@ -405,7 +405,7 @@ requires-dist = [
     { name = "behave", marker = "extra == 'dev'", specifier = ">=1.2.6" },
     { name = "duckdb", marker = "extra == 'dev'", specifier = ">=1.0.0" },
     { name = "numpy", specifier = ">=1.24.0" },
-    { name = "phosphene-holonomy", git = "https://github.com/phosphene/holonomy?branch=feat%2Faxiomatic-dft-macroevo-refactor" },
+    { name = "phosphene-holonomy", git = "https://github.com/phosphene/holonomy" },
     { name = "pydantic", specifier = ">=2.0" },
     { name = "pytest", marker = "extra == 'dev'", specifier = ">=8.0" },
 ]
@@ -423,7 +423,7 @@ dev = [
 [[package]]
 name = "phosphene-holonomy"
 version = "0.1.0"
-source = { git = "https://github.com/phosphene/holonomy?branch=feat%2Faxiomatic-dft-macroevo-refactor#b76fd51286ca425346394751161da9b9f35d5937" }
+source = { git = "https://github.com/phosphene/holonomy#b2378cdeb9adb573cf7542ec8a37e6c5b89cae44" }
 dependencies = [
     { name = "numpy", version = "2.4.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.12'" },
     { name = "numpy", version = "2.5.5", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.12'" },
