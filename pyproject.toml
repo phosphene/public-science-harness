@@ -39,4 +39,4 @@ dev = [
 ]
 
 [tool.uv.sources]
-phosphene-holonomy = { git = "https://github.com/phosphene/phosphene-py-packages", subdirectory = "packages/phosphene-holonomy" }
+phosphene-holonomy = { git = "https://github.com/phosphene/holonomy" }
